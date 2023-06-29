@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <linearGradient id="a-3" x1="-6.1472" x2="-6.1472" y1="-140.25" y2="-98.292" gradientTransform="matrix(.53033 0 0 .53033 11.509 71.862)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ff3c69" offset="0"/>
+   <stop stop-color="#ff462b" offset="1"/>
+  </linearGradient>
+ </defs>
+ <circle cx="8.4662" cy="8.6015" r="7.9375" opacity=".2" stroke-width=".14032"/>
+ <circle cx="8.4662" cy="8.3315" r="7.9375" fill="url(#a-3)" stroke-width=".14032"/>
+ <circle cx="-330.38" cy="-328.51" r="0" fill="#5e4aa6" stroke-width=".26458"/>
+ <circle cx="-301.71" cy="-344.43" r="0" fill="#5e4aa6" stroke-width=".26458"/>
+ <path d="m10.245 0.59666a7.9373 7.9373 0 0 1 3.1749 1.5229v4.9971l-1.5875-0.91671-1.5875 0.91671v-6.52z" fill="#fff" stroke-width=".26458"/>
+ <text x="4.1259637" y="12.206508" fill="#ffffff" font-family="sans-serif" font-size="7.1516px" font-weight="400" letter-spacing="0" stroke-width=".17807" word-spacing="0" style="line-height:1.25"><tspan x="4.1259637" y="12.206508" stroke-width=".17807">Aa</tspan></text>
+</svg>

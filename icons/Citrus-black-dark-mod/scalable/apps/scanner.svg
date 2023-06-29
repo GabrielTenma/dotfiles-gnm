@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <linearGradient id="b" x1="399.57" x2="399.57" y1="545.8" y2="517.8" gradientTransform="matrix(2.1429 0 0 2.1429 -826.36 -1107.5)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#3889e9" offset="0"/>
+   <stop stop-color="#5ea5fb" offset="1"/>
+  </linearGradient>
+  <linearGradient id="c-36" x1="40" x2="40" y1="168" y2="136" gradientTransform="matrix(.13972 0 0 .17777 10.766 -64.71)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#3287ff" offset="0"/>
+   <stop stop-color="#32b4ff" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="d-62" x1="40" x2="40" y1="168" y2="136" gradientTransform="matrix(.13972 0 0 .17777 10.766 4.2675)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#3287ff" offset="0"/>
+   <stop stop-color="#32b4ff" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1039" x1="33.742" x2="33.742" y1="32.959" y2="15.605" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#f0f0f0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path d="m50.249 9.1937q-3.8597-2.9725-8.444-4.5557-4.7372-1.6373-9.8021-1.6373c-16.57 0-30.003 13.432-30.003 30.001 0 15.158 11.245 27.684 25.845 29.709 0.71216 0.09855 1.4339 0.17485 2.1587 0.21936 0.66128 0.04133 1.3258 0.06994 1.9998 0.06994 16.567 0 29.997-13.432 29.997-29.999 0-1.3098-0.08266-2.6037-0.24481-3.8658-0.18758-1.4751-0.49279-2.909-0.88387-4.3046q-1.3289-4.6892-4.0822-8.7265-2.7215-3.9771-6.5401-6.9112z" opacity=".2" stroke-width=".99724"/>
+ <path d="m50.249 8.1932q-3.8597-2.9725-8.444-4.5557-4.7372-1.6373-9.8021-1.6373c-16.57 0-30.003 13.432-30.003 30.001 0 15.158 11.245 27.684 25.845 29.709 0.71216 0.09855 1.4339 0.17485 2.1587 0.21936 0.66128 0.04133 1.3258 0.06994 1.9998 0.06994 16.567 0 29.997-13.432 29.997-29.999 0-1.3098-0.08266-2.6037-0.24481-3.8658-0.18758-1.4751-0.49279-2.909-0.88387-4.3046q-1.3289-4.6892-4.0822-8.7265-2.7215-3.9771-6.5401-6.9112z" fill="#fafafa" stroke-width=".99724"/>
+ <circle cx="32.02" cy="32.044" r="30.001" fill-opacity="0" stroke-width="1.5715"/>
+ <circle cx="32.02" cy="32.044" r="0" fill="url(#b)" stroke-width="1.5715"/>
+ <path d="m40.724 12.089c6.2748 0 6.9502 0.6445 6.9193 6.9321v25.957c0.03075 6.2875-0.64441 6.9321-6.9193 6.9321h-17.45c-6.2748 0-6.9193-0.64443-6.9193-6.9321v-25.957c0-6.2875 0.64441-6.9321 6.9193-6.9321z" color="#000000" fill="url(#linearGradient1039)" stroke-width=".67191"/>
+ <path d="m22.148 17.791-3.508 9.2441h-0.86172v0.71108h2.4888v-0.71108h-0.79682l0.83122-2.1348h4.1246l0.83021 2.1348h-1.0765v0.71108h3.5701v-0.71108h-0.98489l-3.509-9.2441zm0.21568 1.6004 1.8161 4.8009h-3.6016z" color="#bebebe" enable-background="new" fill="#32b4ff" font-size="13.717" font-weight="400" letter-spacing="0" overflow="visible" stroke-width=".17777" word-spacing="0"/>
+ <g transform="matrix(.67191 0 0 .67191 19.032 29.493)" fill-opacity=".99608" opacity=".25">
+  <path d="m15.067-16.357v1.0583h25.4v-1.0583z" color="#000000"/>
+  <path d="m15.067-12.124v1.0583h25.4v-1.0583z" color="#000000"/>
+  <path d="m15.067-7.9104v1.0583h25.4v-1.0583z" color="#000000"/>
+  <path d="m15.067-3.6772v1.0583h25.4v-1.0583z" color="#000000"/>
+  <path d="m-1.8662 0.55606v1.0583l42.332 0.01963v-1.0583z" color="#000000"/>
+  <path d="m-1.8662 4.7893v1.0583h42.332v-1.0583z" color="#000000"/>
+  <path d="m-1.8662 9.0226v1.0583h42.332v-1.0583z" color="#000000"/>
+  <path d="m-1.8662 13.256v1.0583l42.332 0.01963v-1.0583z" color="#000000"/>
+  <path d="m-1.8662 17.489v1.0583h42.332v-1.0583z" color="#000000"/>
+  <path d="m-1.8662 21.722v1.0583h34.924v-1.0583z" color="#000000"/>
+ </g>
+ <g stroke-width=".67191">
+  <rect x="16.355" y="34.133" width="31.297" height=".71108" enable-background="new" fill="#3287ff"/>
+  <rect x="16.355" y="28.444" width="31.297" height="5.6887" enable-background="new" fill="url(#d-62)" opacity=".4"/>
+  <rect transform="scale(1,-1)" x="16.355" y="-40.533" width="31.297" height="5.6887" enable-background="new" fill="url(#c-36)" opacity=".4"/>
+ </g>
+</svg>

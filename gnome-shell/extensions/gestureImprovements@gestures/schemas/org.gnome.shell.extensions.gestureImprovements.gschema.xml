@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <enum id='org.gnome.shell.extensions.gestureImprovements.pinch-gestures'>
+    <value value='0' nick='NONE' />
+    <value value='1' nick='SHOW_DESKTOP' />
+    <value value='2' nick='CLOSE_WINDOW' />
+    <value value='3' nick='CLOSE_DOCUMENT' />
+  </enum>
+  <!--  -->
+  <enum id='org.gnome.shell.extensions.gestureImprovements.overview-navigation-states'>
+    <value value='0' nick='CYCLIC' />
+    <value value='1' nick='GNOME' />
+    <value value='2' nick='WINDOW_PICKER_ONLY' />
+  </enum>
+  <schema id="org.gnome.shell.extensions.gestureImprovements" path="/org/gnome/shell/extensions/gestureImprovements/">
+    <!-- See also: https://docs.gtk.org/glib/gvariant-format-strings.html -->
+    <key name="touchpad-speed-scale" type="d">
+      <default>1.0</default>
+    </key>
+    <key name="touchpad-pinch-speed" type="d">
+      <default>1.0</default>
+    </key>
+    <key name="alttab-delay" type="i">
+      <default>150</default>
+    </key>
+    <key name="hold-swipe-delay-duration" type="i">
+      <default>100</default>
+    </key>
+    <key name='default-session-workspace' type='b'>
+      <default>false</default>
+      <description>If true, use 3-fingers to switch workspace, 4 for windows</description>
+    </key>
+    <key name='default-overview' type='b'>
+      <default>false</default>
+      <description>If true, use 3-fingers for overview gesture, 4 for snapping/tiling</description>
+    </key>
+    <key name='allow-minimize-window' type='b'>
+      <default>false</default>
+      <description>If true, when swipe down on non-maximized window minimizes it</description>
+    </key>
+    <key name='follow-natural-scroll' type='b'>
+      <default>true</default>
+      <description>Whether to follow natural scroll for swipe</description>
+    </key>
+    <key name='default-overview-gesture-direction' type='b'>
+      <default>true</default>
+      <description>Default direction for overview navigation</description>
+    </key>
+    <key name='enable-alttab-gesture' type='b'>
+      <default>true</default>
+      <description>Enable alttab gesture</description>
+    </key>
+    <key name='enable-forward-back-gesture' type='b'>
+      <default>false</default>
+      <description>Enable forward/back keybinding gesture</description>
+    </key>
+    <key name='enable-window-manipulation-gesture' type='b'>
+      <default>true</default>
+      <description>Enable Window manipulation gesture</description>
+    </key>
+    <key name="pinch-3-finger-gesture" enum="org.gnome.shell.extensions.gestureImprovements.pinch-gestures">
+      <default>'NONE'</default>
+      <description>Gesture for 3 finger pinch</description>
+    </key>
+    <key name="pinch-4-finger-gesture" enum="org.gnome.shell.extensions.gestureImprovements.pinch-gestures">
+      <default>'SHOW_DESKTOP'</default>
+      <description>Gesture for 4 finger pinch</description>
+    </key>
+    <key name="overview-navifation-states" enum="org.gnome.shell.extensions.gestureImprovements.overview-navigation-states">
+      <default>'CYCLIC'</default>
+      <description>Gesture for 4 finger pinch</description>
+    </key>
+    <!-- 
+      0 -> Default
+      1 -> Forward/Back
+      2 -> PageUP/PageDown
+      3 -> Right/Left
+      4 -> Audio Next/Prev
+      5 -> Tab Next/Prev
+      boolean value is to indicate whether to reverse keybinds
+    -->
+    <key name="forward-back-application-keyboard-shortcuts" type="a{s(ib)}">
+      <default>
+        {
+          'firefox.desktop': (5, false),
+          'org.chromium.Chromium.desktop': (5, false),
+          'microsoft-edge.desktop': (5, false),
+          'google-chrome.desktop': (5, false),
+          'org.gnome.gThumb.desktop': (2, false),
+          'org.gnome.eog.desktop': (3, false),
+          'org.gnome.Photos.desktop': (3, false),
+          'shotwell.desktop': (3, false),
+          'com.spotify.Client.desktop': (4, false),
+          'code.desktop': (5, false),
+          'code-insiders.desktop': (5, false),
+          'org.gnome.Terminal.desktop': (5, false),
+          'com.gexperts.Tilix.desktop': (5, false),
+          'org.gnome.TextEditor.desktop': (5, false)
+        }
+      </default>
+      <description>Application keyboard shortcuts for forward-back gesture</description>
+    </key>
+  </schema>
+</schemalist>

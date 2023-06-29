@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css"/>
+  <linearGradient id="linearGradient944" x1="-6.1472" x2="-6.1472" y1="-137.82" y2="-100.78" gradientTransform="matrix(.53032 0 0 .53032 11.51 71.862)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#32b4ff" offset="0"/>
+   <stop stop-color="#3287ff" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="scale(.26458)" fill="#5e4aa6" image-rendering="optimizeSpeed">
+  <circle cx="-1160" cy="-1257.6" r="0"/>
+  <circle cx="-1160" cy="-1257.6" r="0"/>
+  <circle cx="-1244.2" cy="-1289.6" r="0"/>
+ </g>
+ <circle cx="-297.6" cy="-338.47" r="0" fill="#5e4aa6" image-rendering="optimizeSpeed" stroke-width=".26458"/>
+ <circle cx="8.4662" cy="8.6009" r="7.9376" image-rendering="optimizeSpeed" opacity=".2" stroke-width=".14032"/>
+ <circle cx="8.4668" cy="8.3321" r="7.9376" fill="url(#linearGradient944)" image-rendering="optimizeSpeed" style="paint-order:normal"/>
+ <g transform="translate(32.763,-10.103)" fill="#5e4aa6" image-rendering="optimizeSpeed" stroke-width=".26458">
+  <circle cx="-299.02" cy="-338.77" r="0"/>
+  <circle cx="-8.1062" cy="-3.9487" r="0" fill-rule="evenodd"/>
+  <circle cx="-278.25" cy="-357.69" r="0"/>
+  <circle cx="12.663" cy="-22.859" r="0" fill-rule="evenodd"/>
+ </g>
+ <path d="m8.466 3.8358c-0.41232 1.0106-0.66059 1.6722-1.1199 2.6522 0.28108 0.29858 0.62668 0.64527 1.1877 1.039-0.60262-0.24827-1.0149-0.49763-1.3223-0.75683-0.58731 1.226-1.5071 2.9715-3.3751 6.327 1.4677-0.84651 2.6063-1.3693 3.666-1.5683a2.6872 2.6872 0 0 1-0.068902-0.62887l0.00109-0.04703c0.024061-0.94057 0.51294-1.6635 1.0926-1.6143 0.57965 0.049216 1.0292 0.85198 1.0062 1.7915a2.6544 2.6544 0 0 1-0.059059 0.50528c1.0488 0.20561 2.1742 0.72621 3.6223 1.5618-0.28545-0.52497-0.54028-0.99854-0.78417-1.4502-0.38279-0.29748-0.78308-0.68355-1.5979-1.1024 0.55997 0.14546 0.96244 0.31389 1.2741 0.502-2.4739-4.6066-2.6741-5.2191-3.5228-7.2107z" fill="#fff" fill-rule="evenodd" stroke-width="1.0937"/>
+</svg>

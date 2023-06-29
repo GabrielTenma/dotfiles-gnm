@@ -1,0 +1,17 @@
+
+.video-label-on {
+    font-size: 36px;
+    font-weight: bold;
+    color: #fff865;
+    background-color: rgba(10,10,10,0.7);
+    border-radius: 5px;
+    padding: .5em;
+}
+.video-label-off {
+    font-size: 36px;
+    font-weight: bold;
+    color: #ffffff;
+    background-color: rgba(10,10,10,0.7);
+    border-radius: 5px;
+    padding: .5em;
+}

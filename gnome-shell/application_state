@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="android-studio.desktop" score="30.5" last-seen="1687905305"/>
+    <application id="org.gnome.TextEditor.desktop" score="43" last-seen="1687905088"/>
+    <application id="github-desktop.desktop" score="15" last-seen="1688074014"/>
+    <application id="org.gnome.Cheese.desktop" score="5.5" last-seen="1687612771"/>
+    <application id="xdg-desktop-portal-gnome.desktop" score="0" last-seen="1687945067"/>
+    <application id="libreoffice-impress.desktop" score="5.5" last-seen="1687905565"/>
+    <application id="org.gnome.tweaks.desktop" score="107" last-seen="1688039022"/>
+    <application id="xterm.desktop" score="34.5" last-seen="1688036726"/>
+    <application id="chrome-pjibgclleladliembfgfagdaldikeohf-Default.desktop" score="17" last-seen="1687662682"/>
+    <application id="discord.desktop" score="628" last-seen="1688073946"/>
+    <application id="io.dbeaver.DBeaver.desktop" score="1.5" last-seen="1687614447"/>
+    <application id="org.gnome.eog.desktop" score="26.5" last-seen="1688073982"/>
+    <application id="code.desktop" score="1817.5" last-seen="1688073873"/>
+    <application id="thunderbird.desktop" score="950" last-seen="1688073712"/>
+    <application id="firewall-config.desktop" score="5.5" last-seen="1687972403"/>
+    <application id="ca.desrt.dconf-editor.desktop" score="2" last-seen="1687845622"/>
+    <application id="virtualbox.desktop" score="1.5" last-seen="1687587436"/>
+    <application id="postman.desktop" score="14.5" last-seen="1687662503"/>
+    <application id="org.gnome.Console.desktop" score="692.5" last-seen="1687845562"/>
+    <application id="org.gnome.Settings.desktop" score="189" last-seen="1688034414"/>
+    <application id="org.gnome.FontManager.desktop" score="20" last-seen="1688069739"/>
+    <application id="appimagelaunchersettings.desktop" score="0.5" last-seen="1687796862"/>
+    <application id="urxvt.desktop" score="318" last-seen="1688072840"/>
+    <application id="libreoffice-writer.desktop" score="69.5" last-seen="1687968527"/>
+    <application id="com.github.themix_project.Oomox.desktop" score="12" last-seen="1688073087"/>
+    <application id="com.usebottles.bottles.desktop" score="67.5" last-seen="1687716969"/>
+    <application id="org.gnome.Calendar.desktop" score="3.5" last-seen="1687969212"/>
+    <application id="org.gnome.Shell.Extensions.desktop" score="470" last-seen="1688069736"/>
+    <application id="gnome-nettool.desktop" score="1.5" last-seen="1687712882"/>
+    <application id="com.github.wwmm.pulseeffects.desktop" score="73" last-seen="1687536641"/>
+    <application id="spotify.desktop" score="6.5" last-seen="1687536188"/>
+    <application id="chrome-fbibgohghoobeeljoejfdmdhgoadhjbc-Default.desktop" score="4.5" last-seen="1687586504"/>
+    <application id="org.gnome.Nautilus.desktop" score="297.5" last-seen="1688073891"/>
+    <application id="gparted.desktop" score="2.5" last-seen="1687715926"/>
+    <application id="org.gnome.FileRoller.desktop" score="5.5" last-seen="1687970829"/>
+    <application id="org.gnome.Totem.desktop" score="7.5" last-seen="1687970944"/>
+    <application id="org.telegram.desktop.desktop" score="2643" last-seen="1688057812"/>
+    <application id="Waydroid.desktop" score="11" last-seen="1687905465"/>
+    <application id="google-chrome.desktop" score="19720.5" last-seen="1688074017"/>
+    <application id="io.bassi.Amberol.desktop" score="9.5" last-seen="1687712284"/>
+    <application id="org.gnome.FontViewer.desktop" score="0" last-seen="1688069343"/>
+    <application id="fingerprint-gui.desktop" score="1.5" last-seen="1687539872"/>
+  </context>
+</application-state>

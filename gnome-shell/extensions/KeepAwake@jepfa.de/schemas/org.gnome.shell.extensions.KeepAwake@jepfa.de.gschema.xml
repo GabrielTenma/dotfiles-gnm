@@ -1,0 +1,49 @@
+<schemalist gettext-domain="KeepAwake@jepfa.de">
+  <schema id="org.gnome.shell.extensions.KeepAwake@jepfa.de" path="/org/gnome/shell/extensions/KeepAwake@jepfa.de/">
+    <key name="idle-dim" type="b">
+      <default>false</default>
+      <summary>idle dim</summary>
+      <description>When idle dim the screen</description>
+    </key>
+    <key name="sleep-inactive-ac-type" type="s">
+      <default>'nothing'</default>
+      <summary>sleep inactive ac type</summary>
+      <description>When idle and power port plugged then sleep</description>
+    </key>
+    <key name="sleep-inactive-battery-type" type="s">
+      <default>'nothing'</default>
+      <summary>sleep inactive battery-type</summary>
+      <description>When idle and battery used then sleep</description>
+    </key>
+    <key name="idle-delay" type="i">
+      <default>0</default>
+      <summary>idle delay</summary>
+      <description>Turn off screen when inactive after that idle delay</description>
+    </key>
+     <key name="idle-activation-enabled" type="b">
+      <default>false</default>
+      <summary>idle activation enabled</summary>
+      <description>When idle activate the screensaver</description>
+    </key>
+     <key name="restore-state" type="b">
+      <default>false</default>
+      <summary>restart state after shell/system restart</summary>
+      <description>Restore state after a shell/system restart</description>
+    </key>
+    <key name="no-color-background" type="b">
+      <default>false</default>
+      <summary>no color background</summary>
+      <description>No color background icon if keep awake</description>
+    </key>
+    <key name="enable-notifications" type="b">
+      <default>true</default>
+      <summary>enable notifications</summary>
+      <description>Enable notifications on mode change</description>
+    </key>
+    <key name="background-color" type="s">
+      <default>'rgba(255,248,0,0.3921)'</default>
+      <summary>background color of icon if active</summary>
+      <description>Choose background color of icon if keep awake</description>
+    </key>
+  </schema>
+</schemalist>

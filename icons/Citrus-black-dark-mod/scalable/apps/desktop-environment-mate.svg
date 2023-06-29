@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <linearGradient id="a-3" x1="-6.1472" x2="-6.1472" y1="-137.82" y2="-100.78" gradientTransform="matrix(.53032 0 0 .53032 11.509 71.862)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#14dc78" offset="0"/>
+   <stop stop-color="#14a03c" offset="1"/>
+  </linearGradient>
+  <style type="text/css"/>
+  <style type="text/css"/>
+ </defs>
+ <circle cx="-330.38" cy="-328.5" r="0" fill="#5e4aa6" stroke-width=".26458"/>
+ <circle cx="8.4665" cy="8.6014" r="7.9376" opacity=".2" stroke-width=".14032"/>
+ <circle cx="8.4665" cy="8.3316" r="7.9376" fill="url(#a-3)" stroke-width=".14032"/>
+ <path d="m8.467 3.8364a4.6296 4.6296 0 0 0-3.747 1.9194l0.66387 0.3992a3.8585 3.8585 0 0 1 3.0831-1.5465 3.8585 3.8585 0 0 1 3.8574 3.8574 3.8585 3.8585 0 0 1-3.8574 3.8585 3.8585 3.8585 0 0 1-3.0831-1.5443l-0.66496 0.3981a4.6296 4.6296 0 0 0 3.7481 1.9183 4.6296 4.6296 0 0 0 4.6296-4.6307 4.6296 4.6296 0 0 0-4.6296-4.6296zm-4.6307 1.9293v5.4017l4.6307-2.7014zm4.6307 0a2.7014 2.7014 0 0 0-2.0846 0.9876l0.67152 0.40248a1.9293 1.9293 0 0 1 1.413-0.61903 1.9293 1.9293 0 0 1 1.9293 1.9293 1.9293 1.9293 0 0 1-1.9293 1.9293 1.9293 1.9293 0 0 1-1.413-0.61903l-0.67262 0.40466a2.7014 2.7014 0 0 0 2.0857 0.9865 2.7014 2.7014 0 0 0 2.7014-2.7014 2.7014 2.7014 0 0 0-2.7014-2.7014z" fill="#fff" stroke-width="1.0937"/>
+</svg>

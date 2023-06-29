@@ -1,0 +1,218 @@
+.indicator-overlay-dark, .indicator-overlay-light, .running-counter-dark, .running-counter-light {
+  text-align: center;
+  font-weight: normal;
+  margin-bottom: 2px;
+  padding: 1px;
+  padding-left: 0.2em;
+  padding-right: 0.2em;
+  border-width: 1px;
+  border-radius: 4px;
+  border: 1px;
+}
+
+.indicator-overlay-dark, .running-counter-dark {
+  background-color: rgba(50, 50, 50, 0.9);
+  color: rgb(220, 220, 220);
+  border-color: rgba(53, 53, 53, 0.8);
+}
+
+.indicator-overlay-light, .running-counter-light {
+  background-color: rgba(250, 250, 250, 0.9);
+  color: rgb(40, 40, 40);
+  border-color: rgba(220, 220, 220, 0.7);
+}
+
+.indicator-overlay-highlight-dark {
+  border-color: grey;
+}
+
+.indicator-overlay-highlight-light {
+  border-color: rgb(172, 172, 172);
+}
+
+.indicator-overlay-hover {
+  padding-bottom: 2px;
+}
+
+.indicator-overlay-inactive-light, .indicator-overlay-inactive-dark {
+  color: rgb(160, 160, 160);
+}
+
+.running-counter-dark {
+  background-color: rgba(50, 50, 50, 0.6);
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+}
+
+.running-counter-light {
+  background-color: rgba(250, 250, 250, 0.7);
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+}
+
+.running-counter-hover {
+  padding-left: 0.7em;
+  padding-right: 0.7em;
+}
+
+.running-dot {
+  margin-bottom: 0px;
+  width: 1.2em;
+  height: 2px;
+}
+
+.running-dot-color {
+  background-color: grey;
+}
+
+.window-state-indicators {
+  height: 1.1em;
+  width: 1.1em;
+  margin: 2px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-left: 3px;
+  padding-right: 3px;
+}
+
+.window-state-indicators-hover {
+  margin-top: 0px;
+  padding-bottom: 4px;
+}
+
+.window-state-indicators-active {
+  color: rgb(255, 0, 0);
+}
+
+.workspace-index-highlight {
+  border-color: rgb(36, 36, 36);
+}
+
+.arrow-light {
+  color: rgb(69, 69, 69);
+  height: 4em;
+}
+
+.arrow-dark {
+  color: rgb(169, 169, 169);
+}
+
+.search-icon {
+  padding-left: 0.2em;
+}
+
+.search-label, .search-label, .caption-label-dark, .caption-label-light {
+  padding-left: 0.2em;
+  padding-right: 0.2em;
+  text-align: center;
+}
+
+.caption-label-dark, .caption-label-light {
+  border-radius: 12px;
+  padding: 6px;
+  border: solid 1px;
+  box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.1);
+}
+
+.dash-label {
+  border-radius: 10px;
+}
+
+.window-close-aatws {
+  color: white;
+  background-color: dimgrey;
+  width: 18px;
+  height: 18px;
+  padding: 2px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+  border: 0px;
+  border-radius: 35px;
+}
+
+.window-close-hover {
+  background-color: rgb(255, 0, 0);
+}
+
+.switcher-list-dark, .caption-label-dark, .search-label-dark, .title-label-dark {
+  background-color: rgba(24, 24, 24, 0.95);
+  border-color: rgba(63, 63, 63, 0.8);
+  color: rgb(220, 220, 220);
+  text-shadow: 0px 0px 0px rgba(0, 0, 0, 0.0);
+}
+
+.switcher-list-light, .caption-label-light, .search-label-light, .title-label-light {
+  background-color: rgba(245, 245, 245, 0.95);
+  border-color: rgba(150, 150, 150, 0.8);
+  color: rgb(25, 25, 25);
+  text-shadow: 0px 0px 0px rgba(0, 0, 0, 0.0);
+}
+
+.title-description {
+  padding-left: 0.3em;
+  padding-right: 0.3em;
+}
+
+.hot-key-number {
+  font-size: 1em;
+  background-color: rgba(46, 52, 63, 0.7);
+}
+
+.status-label {
+  color: rgb(136, 136, 136);
+  font-size: 0.8em;
+}
+
+.title-label-dark, .title-label-light, .title-label {
+  font-size: 0.9em;
+  background-color: rgba(0, 0, 0, 0.0);
+}
+
+/* space between switcher items */
+.switcher-list-item-container {
+  spacing: 0px;
+}
+
+.switcher-list, .switcher-list-dark, .switcher-list-light, .switcher-list-all, .switcher-list-workspace, .switcher-list-monitor {
+  border-width: 1px;
+  margin-top: 6px;
+  margin-bottom: 6px;
+  padding: 5px;
+  border-radius: 19px;
+}
+
+.switcher-list-all {
+  border-color: rgba(0, 160, 0, 0.8);
+  border-top-width: 2px;
+  border-left-width: 2px;
+  border-right-width: 2px;
+}
+
+.switcher-list-workspace {
+  border-color: rgba(160, 130, 0, 0.8);
+  border-top-width: 2px;
+  border-left-width: 2px;
+  border-right-width: 2px;
+}
+
+.switcher-list-monitor {
+  border-color: rgba(160, 0, 0, 0.8);
+  border-top-width: 2px;
+  border-left-width: 2px;
+  border-right-width: 2px;
+}
+
+.selected-dark {
+  background-color: rgba(80, 80, 80, 1.0);
+}
+
+.selected-light {
+  background-color: rgba(210, 210, 210, 1.0);
+}
+
+.focused-dark {
+  background-color: rgba(70, 70, 70, 0.5);
+}
+
+.focused-light {
+  background-color: rgba(210, 210, 210, 0.5);
+}

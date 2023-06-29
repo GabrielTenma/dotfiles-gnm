@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <linearGradient id="a-3" x1="-6.1472" x2="-6.1472" y1="-140.25" y2="-98.292" gradientTransform="matrix(.53033 0 0 .53033 11.509 71.862)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ff3c69" offset="0"/>
+   <stop stop-color="#ff462b" offset="1"/>
+  </linearGradient>
+ </defs>
+ <circle cx="8.4662" cy="8.6015" r="7.9375" opacity=".2" stroke-width=".14032"/>
+ <circle cx="8.4662" cy="8.3315" r="7.9375" fill="url(#a-3)" stroke-width=".14032"/>
+ <circle cx="-330.38" cy="-328.51" r="0" fill="#5e4aa6" stroke-width=".26458"/>
+ <circle cx="-301.71" cy="-344.43" r="0" fill="#5e4aa6" stroke-width=".26458"/>
+ <circle cx="8.4677" cy="8.4602" r="3.6366" opacity=".15" stroke-width="1.2497" style="paint-order:stroke markers fill"/>
+ <circle cx="8.4677" cy="8.4602" r="1.9845" fill="#ff404e" stroke-width="1.2497" style="paint-order:stroke markers fill"/>
+ <circle cx="-259.01" cy="-348.26" r="0" fill="#5e4aa6" stroke-width=".26458"/>
+ <circle cx="31.886" cy="-13.442" r="0" fill="#5e4aa6" fill-rule="evenodd" stroke-width=".26458"/>
+ <path d="m7.5064 7.5064 5.9732-4.053-4.053 5.9732z" color="#000000" fill="#fff" stroke-width=".059007"/>
+ <path d="m7.5064 7.5064-4.053 5.9732 5.9732-4.053z" color="#000000" fill="#dfdfdf" stroke-width=".059007"/>
+ <circle cx="-257.29" cy="-350.65" r="0" fill="#5e4aa6" stroke-width=".26458"/>
+ <circle cx="33.611" cy="-15.826" r="0" fill="#5e4aa6" fill-rule="evenodd" stroke-width=".26458"/>
+</svg>

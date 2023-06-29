@@ -1,0 +1,36 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="a" x1="-6.1472" x2="-6.1472" y1="-137.82" y2="-100.78" gradientTransform="matrix(.53033 0 0 .53033 11.536 352.06)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#32b4ff" offset="0"/>
+   <stop stop-color="#3287ff" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(0,-280.07)">
+  <circle cx="-330.35" cy="-48.312" r="0" fill="#5e4aa6" stroke-width=".26458"/>
+  <circle cx="-39.434" cy="286.51" r="0" fill="#5e4aa6" fill-rule="evenodd" stroke-width=".26458"/>
+  <circle cx="8.4935" cy="288.8" r="7.9375" opacity=".2" stroke-width=".14032"/>
+  <circle cx="8.4939" cy="288.53" r="7.9375" fill="url(#a)" style="paint-order:normal"/>
+ </g>
+ <g transform="translate(0 -280.17)" fill="#0078ff">
+  <g transform="matrix(.17412 0 0 -.17594 5.3566 289.01)" opacity=".5">
+   <path d="m0.03763 0.34036c-0.459 0.249-1.097 0.626-1.808 1.154-0.785 0.583-3.324 2.565-4.674 5.801-0.183 0.441-0.473 1.018-0.442 1.769 1.0503 2.6159 2.2045 4.7581 3.476 6.2" fill="#0078ff"/>
+  </g>
+  <path d="m8.4949 284.26c-0.39593 0-0.78259 0.0519-1.1498 0.14793l0.17569 0.68049c0.31086-0.0813 0.6373-0.12426 0.97408-0.12426 2.1438 0 3.8729 1.7491 3.8729 3.9153s-1.7291 3.9153-3.8729 3.9153-3.8748-1.7491-3.8748-3.9153c0-0.43509 0.069959-0.85259 0.19911-1.2426l-0.6598-0.22288c-0.15258 0.46079-0.2362 0.95403-0.2362 1.4655 0 2.5465 2.0515 4.6175 4.5717 4.6175s4.5698-2.071 4.5698-4.6175-2.0496-4.6195-4.5698-4.6195z" color="#000000" color-rendering="auto" dominant-baseline="auto" image-rendering="auto" opacity=".5" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+  <path d="m7.3445 284.41a0.35057 0.35057 0 0 0-0.25212 0.42699 0.35057 0.35057 0 0 0 0.42648 0.25224 0.35057 0.35057 0 0 0 0.00242-3.6e-4l-0.17435-0.67923a0.35057 0.35057 0 0 0-0.00242 3.6e-4z" fill-rule="evenodd" opacity=".5" stroke-width=".26458"/>
+ </g>
+ <g transform="translate(-.38602 -279.64)">
+  <path d="m7.8186 284.01c0.3392-0.0878 0.69478-0.1345 1.0613-0.1345 2.3333 0 4.2248 1.8915 4.2248 4.2248s-1.8915 4.2248-4.2248 4.2248-4.2248-1.8915-4.2248-4.2248c0-0.46865 0.076307-0.91934 0.21725-1.3406" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width=".69687"/>
+  <g transform="matrix(.17422 0 0 -.17422 5.7408 288.23)">
+   <path d="m0.03763 0.34036c-0.459 0.249-1.097 0.626-1.808 1.154-0.785 0.583-3.324 2.565-4.674 5.801-0.183 0.441-0.473 1.018-0.442 1.769 1.0503 2.6159 2.2045 4.7581 3.476 6.2" fill="#fff"/>
+  </g>
+  <g transform="matrix(.17422 0 0 -.17422 8.1312 284.02)">
+   <path d="m0 0c-0.01-1.09-0.917-1.979-2.003-1.984-1.093-5e-3 -2.011 0.887-2.022 1.984-0.01 1.111 0.915 2.027 2.022 2.022 1.1-5e-3 2.013-0.918 2.003-2.022" fill="#fff"/>
+  </g>
+ </g>
+ <g transform="scale(.99995 1)" fill="#0078ff" opacity=".5" stroke-width=".12285" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal" aria-label="B">
+  <path d="m7.8093 8.6829v1.3125h0.77742q0.39111 0 0.57826-0.16076 0.18956-0.16316 0.18956-0.49668 0-0.33592-0.18956-0.49428-0.18716-0.16076-0.57826-0.16076zm0-1.4733v1.0797h0.71743q0.35512 0 0.52788-0.13197 0.17516-0.13437 0.17516-0.4079 0-0.27114-0.17516-0.4055-0.17276-0.13437-0.52788-0.13437zm-0.48469-0.39831h1.2381q0.55427 0 0.8542 0.23035 0.29993 0.23035 0.29993 0.65505 0 0.32872-0.15356 0.52308t-0.45109 0.24234q0.35752 0.076782 0.55427 0.32152 0.19915 0.24234 0.19915 0.60706 0 0.47989-0.32632 0.74143-0.32632 0.26154-0.92858 0.26154h-1.2861z" fill="#0078ff" stroke-width=".12285" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"/>
+ </g>
+ <g fill="#fff" stroke-width=".12284" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal" aria-label="B">
+  <path d="m7.8089 8.4973v1.3124h0.77738q0.39109 0 0.57824-0.16075 0.18955-0.16315 0.18955-0.49666 0-0.3359-0.18955-0.49426-0.18715-0.16075-0.57824-0.16075zm0-1.4732v1.0797h0.7174q0.3551 0 0.52785-0.13196 0.17515-0.13436 0.17515-0.40788 0-0.27112-0.17515-0.40548-0.17275-0.13436-0.52785-0.13436zm-0.48466-0.39829h1.238q0.55424 0 0.85416 0.23033 0.29991 0.23033 0.29991 0.65501 0 0.32871-0.15356 0.52305-0.15356 0.19434-0.45107 0.24233 0.3575 0.076778 0.55424 0.32151 0.19914 0.24233 0.19914 0.60703 0 0.47986-0.32631 0.74139-0.32631 0.26152-0.92854 0.26152h-1.286z" fill="#fff" stroke-width=".12284" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"/>
+ </g>
+</svg>

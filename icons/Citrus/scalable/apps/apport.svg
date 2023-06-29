@@ -1,0 +1,45 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="b" x1="-6.1472" x2="-6.1472" y1="-140.25" y2="-98.292" gradientTransform="matrix(.53033 0 0 .53033 11.536 352.06)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ff3c69" offset="0"/>
+   <stop stop-color="#ff462b" offset="1"/>
+  </linearGradient>
+  <clipPath id="a">
+   <path d="m-1 1335h1029v-1334h-1029z"/>
+  </clipPath>
+ </defs>
+ <g transform="translate(0 -280.07)">
+  <circle cx="-330.35" cy="-48.312" r="0" fill="#5e4aa6" stroke-width=".26458"/>
+  <circle cx="8.4935" cy="288.8" r="7.9375" opacity=".2" stroke-width=".14032"/>
+  <circle cx="8.4935" cy="288.53" r="7.9375" fill="url(#b)" stroke-width=".14032"/>
+  <ellipse cx="-39.434" cy="286.51" r=".90502" fill="#5e4aa6" fill-rule="evenodd" stroke-width=".26458"/>
+  <g transform="translate(.68889 .36373)" fill="#ff0a0a" opacity=".5">
+   <circle cx="7.8047" cy="292.32" r=".94494" fill-rule="evenodd" opacity="1" stroke-width=".3004"/>
+   <g transform="matrix(.15891 0 0 -.15891 -91.308 375.61)">
+    <g fill="#ff0a0a">
+     <g fill="#ff0a0a">
+      <g fill="#ff0a0a">
+       <g clip-path="url(#a)" fill="#ff0a0a">
+        <path d="m618.69 538.71c0-2.761 2.239-5 5-5 2.762 0 5 2.239 5 5v35c0 2.762-2.238 5-5 5-2.761 0-5-2.238-5-5z" fill="#ff0a0a"/>
+       </g>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+  <g transform="translate(.68889 .079348)" fill="#fff">
+   <circle cx="7.8047" cy="292.32" r=".94494" fill-rule="evenodd" stroke-width=".3004"/>
+   <g transform="matrix(.15891 0 0 -.15891 -91.308 375.61)">
+    <g fill="#fff">
+     <g fill="#fff">
+      <g fill="#fff">
+       <g clip-path="url(#a)" fill="#fff">
+        <path d="m618.69 538.71c0-2.761 2.239-5 5-5 2.762 0 5 2.239 5 5v35c0 2.762-2.238 5-5 5-2.761 0-5-2.238-5-5z" fill="#fff"/>
+       </g>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

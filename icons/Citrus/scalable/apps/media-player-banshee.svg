@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="svg47"
+   sodipodi:docname="media-player-banshee.svg"
+   width="64"
+   height="64"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata51">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="932"
+     id="namedview49"
+     showgrid="false"
+     inkscape:zoom="5.6347572"
+     inkscape:cx="22.164649"
+     inkscape:cy="37.775482"
+     inkscape:window-x="0"
+     inkscape:window-y="36"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg47"
+     inkscape:document-rotation="0" />
+  <defs
+     id="defs7">
+    <linearGradient
+       id="linearGradient3764"
+       x1="1"
+       x2="47"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="rotate(-90,23.999998,24)">
+      <stop
+         style="stop-color:#ecc85c;stop-opacity:1"
+         id="stop2" />
+      <stop
+         offset="1"
+         style="stop-color:#eecf6d;stop-opacity:1"
+         id="stop4" />
+    </linearGradient>
+    <style
+       type="text/css"
+       id="style890" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter935"
+       x="-0.048"
+       width="1.096"
+       y="-0.048"
+       height="1.096">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.32"
+         id="feGaussianBlur937" />
+    </filter>
+  </defs>
+  <circle
+     cx="-1248.6936"
+     cy="-1241.6389"
+     r="0"
+     fill="#5e4aa6"
+     stroke-width="1.00001"
+     id="circle844" />
+  <circle
+     cx="-149.14687"
+     cy="23.855005"
+     r="0"
+     fill="#5e4aa6"
+     fill-rule="evenodd"
+     stroke-width="1.00001"
+     id="ellipse846" />
+  <circle
+     cx="32"
+     cy="32.510212"
+     r="30.000591"
+     opacity="0.2"
+     stroke-width="0.530354"
+     id="circle848" />
+  <circle
+     cx="32"
+     cy="31.489761"
+     r="30.000591"
+     fill="#fafafa"
+     stroke-width="0.530354"
+     id="circle850" />
+  <g
+     id="g931"
+     transform="matrix(0.76803549,0,0,0.76803549,10.498085,9.8082446)">
+    <circle
+       style="opacity:1;fill:#323232;fill-opacity:1;stroke-width:0.792911"
+       id="circle921"
+       cx="29.837355"
+       cy="36.190361"
+       r="18.744282" />
+    <g
+       id="g925"
+       transform="translate(0.44076106)">
+      <path
+         id="path904"
+         style="opacity:1;fill:#3e50b4;fill-opacity:1;stroke-width:0.549919"
+         d="m 16.362163,2.8543046 c 0,0 -9.067333,-0.2410693 -9.392578,9.0371094 0,0 0.451945,-3.4011508 9.392578,-3.4042969 V 36.633601 h 0.0039 a 13,13 0 0 0 12.996094,12.828125 13,13 0 0 0 13,-13 13,13 0 0 0 -13,-13 13,13 0 0 0 -7.5,2.38086 V 2.8543046 Z" />
+      <circle
+         style="opacity:0.2;fill:#050505;fill-opacity:1;stroke-width:0.338412;filter:url(#filter935)"
+         id="circle933"
+         cx="29.837355"
+         cy="37.112457"
+         r="8" />
+      <circle
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.338412"
+         id="circle919"
+         cx="29.837355"
+         cy="36.590023"
+         r="8" />
+    </g>
+  </g>
+</svg>

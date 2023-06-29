@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css"/>
+  <linearGradient id="linearGradient857" x1="2.8134" x2="14.043" y1="3.4437" y2="13.439" gradientTransform="matrix(.80221 0 0 .80221 1.6746 1.6746)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#c8c8c8" offset="0"/>
+   <stop stop-color="#fff" offset="1"/>
+  </linearGradient>
+ </defs>
+ <circle cx="8.4935" cy="8.73" r="7.9375" opacity=".2" stroke-width=".14032"/>
+ <circle cx="8.4935" cy="8.46" r="7.9375" fill="#fafafa" fill-opacity=".98039" stroke-width=".14032"/>
+ <g fill="#5e4aa6" stroke-width=".26458">
+  <circle cx="-330.35" cy="-328.38" r="0"/>
+  <circle cx="-39.434" cy="6.44" r="0" fill-rule="evenodd"/>
+  <circle cx="-306.9" cy="-332.28" r="0"/>
+ </g>
+ <path d="m11.155 8.9074q0.73527 0 1.2604 0.53544 0.52513 0.53543 0.52513 1.2707 0 0.73527-0.52513 1.2604-0.52513 0.52513-1.2604 0.52513t-1.2604-0.52513q-0.52513-0.52513-0.52513-1.2604 0-0.73527 0.52513-1.2707 0.52513-0.53544 1.2604-0.53544zm-2.6884-4.4735q0.73527 0 1.2604 0.52513 0.52513 0.52513 0.52513 1.2604 0 0.73527-0.52513 1.2707-0.52513 0.53544-1.2604 0.53544-0.73527 0-1.2604-0.53544-0.52513-0.53544-0.52513-1.2707 0-0.73527 0.52513-1.2604 0.52513-0.52513 1.2604-0.52513zm-2.6884 4.4735q0.73527 0 1.2604 0.53544 0.52513 0.53543 0.52513 1.2707 0 0.73527-0.52513 1.2604-0.52513 0.52513-1.2604 0.52513-0.73527 0-1.2604-0.52513-0.52513-0.52513-0.52513-1.2604 0-0.73527 0.52513-1.2707 0.52513-0.53544 1.2604-0.53544z" fill="#5d5d5d" stroke="url(#linearGradient857)" stroke-width=".10612" p-id="5307"/>
+</svg>

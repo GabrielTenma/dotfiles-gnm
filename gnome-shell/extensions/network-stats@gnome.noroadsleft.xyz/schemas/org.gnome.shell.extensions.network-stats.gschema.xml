@@ -1,0 +1,70 @@
+<schemalist gettext-domain="network-stats">
+  <schema id="org.gnome.shell.extensions.network-stats"
+      path="/org/gnome/shell/extensions/network-stats/">
+
+    <key type="i" name="refresh-interval">
+        <default>1500</default>
+        <summary>The interval between updates in miliseconds</summary>
+        <description>The interval between updates in miliseconds </description>
+        <range min="500" max="5000"/>
+    </key>
+
+    <key type="s" name="reset-schedule">
+        <default>"daily"</default>
+        <summary>Reset schedule for resetting the network stats.</summary>
+        <description>Reset schedule for resetting the network stats.</description>
+    </key>
+
+    <key type="s" name="reset-week-day">
+        <default>"monday"</default>
+        <summary>Reset on which day of week.</summary>
+        <description>Reset on which day of week.</description>
+    </key>
+
+    <key type="i" name="reset-month-day">
+        <default>1</default>
+        <summary>Reset on which day of month.</summary>
+        <description>Reset on which day of month.</description>
+        <range min="1" max="31"/>
+    </key>
+
+    <key type="i" name="reset-hours">
+        <default>0</default>
+        <summary>At what hours in day should we reset device stats</summary>
+        <description>At this time data usage stats will be reset</description>
+        <range min="0" max="23"/>
+    </key>
+
+    <key type="i" name="reset-minutes">
+        <default>0</default>
+        <summary>At what minutes in day should we reset device stats</summary>
+        <description>At this time data usage stats will be reset</description>
+        <range min="0" max="59"/>
+    </key>
+
+    <key type="s" name="display-mode">
+        <default>"total_speed"</default>
+        <summary>What to display in status bar</summary>
+    </key>
+
+    <key type="s" name="prefered-device">
+      <default>""</default>
+      <summary>prefered device to be shown in status bar, in case multiple devices are connected</summary>
+    </key>
+
+    <key type="s" name="devices-info">
+      <default>"{}"</default>
+      <summary>devices or interfaces info as json object. e.g. last reset time</summary>
+    </key>
+
+    <key type="b" name="display-bytes">
+      <default>true</default>
+      <summary>Show speeds in bytes instead of bits</summary>
+    </key>
+
+    <key type="b" name="show-icon">
+      <default>true</default>
+      <summary>Show icon in status bar</summary>
+    </key>
+  </schema>
+</schemalist>

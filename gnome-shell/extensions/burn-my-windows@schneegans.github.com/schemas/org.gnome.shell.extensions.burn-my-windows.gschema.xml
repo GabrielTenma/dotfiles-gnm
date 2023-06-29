@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+SPDX-FileCopyrightText: Simon Schneegans <code@simonschneegans.de>
+SPDX-License-Identifier: CC0-1.0
+-->
+
+<schemalist>
+
+  <schema path="/org/gnome/shell/extensions/burn-my-windows/" id="org.gnome.shell.extensions.burn-my-windows">
+
+    <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+    <!-- General Options                                                               -->
+    <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+
+    <key name="active-profile" type="s">
+      <default>""</default>
+      <summary>Active Profile</summary>
+      <description>The currently active effect profile.</description>
+    </key>
+
+    <key name="preview-effect" type="s">
+      <default>""</default>
+      <summary>Preview Effect</summary>
+      <description>The effect with this nick will be used for the next window animation.</description>
+    </key>
+
+    <key name="test-mode" type="b">
+      <default>false</default>
+      <summary>Test Mode</summary>
+      <description>If set to true, all animations will show only one still frame to allow for continuous integration tests.</description>
+    </key>
+
+    <key name="last-prefs-version" type="i">
+      <default>0</default>
+      <summary>Last Prefs Version</summary>
+      <description>Used to check whether the extension got updated from the preferences dialog.</description>
+    </key>
+
+    <key name="last-extension-version" type="i">
+      <default>0</default>
+      <summary>Last Extension Version</summary>
+      <description>Used to check whether the extension got updated from the extension side.</description>
+    </key>
+
+    <key name="prefs-open-count" type="i">
+      <default>0</default>
+      <summary>Prefs Open Count</summary>
+      <description>The number of times the settings dialog was openend.</description>
+    </key>
+
+    <key name="show-support-dialog" type="b">
+      <default>true</default>
+      <summary>Show Support Dialog</summary>
+      <description>If set to false, the ask-for-support dialog will never be shown.</description>
+    </key>
+
+  </schema>
+
+</schemalist>

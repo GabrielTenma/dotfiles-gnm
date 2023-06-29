@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <radialGradient id="a" cx="24" cy="1028.4" r="16" gradientTransform="matrix(1.231 .00334 -.00334 1.2313 -2.11 -237.92)" gradientUnits="userSpaceOnUse" xlink:href="#e-3">
+   <stop stop-color="#c896ff" offset="0"/>
+   <stop stop-color="#32afff" offset="1"/>
+  </radialGradient>
+  <filter id="d" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.54"/>
+  </filter>
+  <linearGradient id="e-3" x1="8.4207" x2="8.4207" y1="281.1" y2="300.27" gradientTransform="matrix(3.7796 0 0 3.7796 -.10411 -1059)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#c896ff" offset="0"/>
+   <stop stop-color="#32afff" offset="1"/>
+  </linearGradient>
+  <style type="text/css"/>
+  <style type="text/css"/>
+ </defs>
+ <circle cx="32" cy="32.51" r="30.001" image-rendering="optimizeSpeed" opacity=".2" stroke-width=".53035"/>
+ <circle cx="32" cy="31.49" r="30.001" fill="url(#e-3)" image-rendering="optimizeSpeed" stroke-width="3.7796"/>
+ <circle cx="-1248.7" cy="-1241.6" r="0" fill="#5e4aa6" image-rendering="optimizeSpeed"/>
+ <g transform="matrix(1.5 0 0 1.5 -4 -1510.6)" stroke-linejoin="round" stroke-width="1.3333">
+  <circle cx="24" cy="1028.4" r="18" filter="url(#d)" opacity=".15" stroke-linecap="round"/>
+  <circle cx="24" cy="1028.4" r="18" fill="#fafafa" stroke-linecap="round"/>
+  <path d="m24 1012.4c-3 0-5 2-5 2s1.193 4.052 2 6c0.856 2.066 3 6 3 6s2.144-3.934 3-6c0.807-1.948 2-6 2-6s-2-2-5-2m-6.363 2.564s-2.83 0-4.951 2.121-2.121 4.951-2.121 4.951 3.71 2.02 5.658 2.828c2.066 0.856 6.363 2.121 6.363 2.121s-1.265-4.297-2.121-6.363c-0.807-1.948-2.828-5.658-2.828-5.658m12.727 0s-2.02 3.71-2.828 5.658c-0.856 2.066-2.121 6.363-2.121 6.363s4.297-1.265 6.363-2.121c1.948-0.807 5.658-2.828 5.658-2.828s0-2.83-2.121-4.951-4.951-2.121-4.951-2.121m-20.363 8.436s-2 2-2 5 2 5 2 5 4.052-1.193 6-2c2.066-0.856 6-3 6-3s-3.934-2.144-6-3c-1.948-0.807-6-2-6-2m28 0s-4.052 1.193-6 2c-2.066 0.856-6 3-6 3s3.934 2.144 6 3c1.948 0.807 6 2 6 2s2-2 2-5-2-5-2-5m-15.414 6.414s-4.297 1.265-6.363 2.121c-1.948 0.807-5.658 2.828-5.658 2.828s0 2.83 2.121 4.951 4.951 2.121 4.951 2.121 2.02-3.71 2.828-5.658c0.856-2.066 2.121-6.363 2.121-6.363m2.828 0s1.265 4.297 2.121 6.363c0.807 1.948 2.828 5.658 2.828 5.658s2.83 0 4.951-2.121 2.121-4.951 2.121-4.951-3.71-2.02-5.658-2.828c-2.066-0.856-6.363-2.121-6.363-2.121m-1.414 0.586s-2.144 3.934-3 6c-0.807 1.948-2 6-2 6s2 2 5 2 5-2 5-2-1.193-4.052-2-6c-0.856-2.066-3-6-3-6" fill="url(#a)"/>
+ </g>
+</svg>

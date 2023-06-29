@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <linearGradient id="a-5" x1="31.559" x2="32.034" y1="5.4237" y2="59" gradientTransform="matrix(1 0 0 1 2.7173e-7 -.49987)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#774ac6" offset="0"/>
+   <stop stop-color="#673ab7" offset="1"/>
+  </linearGradient>
+ </defs>
+ <circle cx="-1158.1" cy="-1246" r="0" fill="#5e4aa6"/>
+ <path d="m32 2.5002c-16.569-1.474e-4 -30 13.431-30 30-1.469e-4 16.569 13.431 30 30 30 16.569 1.48e-4 30-13.431 30-30 1.47e-4 -16.569-13.431-30-30-30z" opacity=".15" stroke-width=".99997" style="paint-order:fill markers stroke"/>
+ <path d="m32 1.5001c-16.569-1.474e-4 -30 13.431-30 30-1.469e-4 16.569 13.431 30 30 30 16.569 1.51e-4 30-13.431 30-30 1.47e-4 -16.569-13.431-30-30-30z" fill="url(#a-5)" stroke-width=".99997" style="paint-order:fill markers stroke"/>
+ <path d="m24 16v4h4v-4zm12 0v4h4v-4zm-18 2v4h4v-4zm24 0v4h4v-4zm-30 2v4h4v-4zm18 0v4h4v-4zm18 0v4h4v-4zm-24 2v4h4v-4zm12 0v4h4v-4zm-18 2v4h4v-4zm24 0v4h4v-4zm-30 2v4h4v-4zm18 0v4h4v-4zm18 0v4h4v-4zm-24 2v4h4v-4zm12 0v4h4v-4zm-18 2v4h4v-4zm24 0v4h4v-4zm-30 2v4h4v-4zm18 0v4h4v-4zm18 0v4h4v-4zm-24 2v4h4v-4zm12 0v4h4v-4zm-18 2v4h4v-4zm24 0v4h4v-4zm-12 2v4h4v-4zm-6 2v4h4v-4zm12 0v4h4v-4zm-6 4v4h4v-4z" fill="#fff"/>
+</svg>

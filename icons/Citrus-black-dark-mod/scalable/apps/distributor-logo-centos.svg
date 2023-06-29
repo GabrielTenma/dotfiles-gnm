@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <circle cx="-330.38" cy="-328.5" r="0" fill="#5e4aa6" stroke-width=".26458"/>
+ <circle cx="8.4665" cy="8.6014" r="7.9376" opacity=".2" stroke-width=".14032"/>
+ <circle cx="8.4665" cy="8.3316" r="7.9376" fill="#fafafa" stroke-width=".14032"/>
+ <circle cx="-39.462" cy="6.3115" r="0" fill="#5e4aa6" fill-rule="evenodd" stroke-width=".26458"/>
+ <g transform="matrix(1.2856 0 0 1.2856 -32.666 -2.4085)">
+  <path d="m31.994 4.343-0.94 0.941h0.676v2.162l0.264 0.265 0.265-0.265v-2.162h0.676z" fill="#efa724"/>
+  <path d="m35.169 7.518v0.677h-2.161l-0.265 0.264 0.265 0.265h2.162v0.676l0.941-0.94" fill="#262577"/>
+  <path d="m31.994 9.207-0.264 0.265v2.162h-0.677l0.941 0.941 0.941-0.94h-0.676v-2.164" fill="#9ccd2a"/>
+  <path d="m28.819 7.518-0.94 0.941 0.94 0.941v-0.676h2.162l0.265-0.265-0.265-0.264h-2.162" fill="#932279"/>
+  <path d="m32.523 8.989v0.374l1.529 1.529-0.478 0.478h1.33v-1.331l-0.477 0.478-1.53-1.528zm0.749 0 1.155 1.154 0.478-0.478v-0.677h-1.633zm-0.749 0.748v1.633h0.677l0.478-0.478-1.154-1.155z" fill="#efa724"/>
+  <path d="m29.084 8.989v0.676l0.478 0.478 1.155-1.153h-1.633zm2.007 0-1.53 1.528-0.477-0.478v1.33h1.33l-0.477-0.477 1.528-1.53v-0.372zm0.374 0.748-1.154 1.155 0.478 0.478h0.676z" fill="#262577"/>
+  <path d="m32.523 5.549v1.633l1.155-1.155-0.478-0.478zm1.051 0 0.478 0.478-1.528 1.529v0.374h0.374l1.529-1.528 0.478 0.478v-1.331zm0.853 1.227-1.155 1.154h1.633v-0.676l-0.478-0.479z" fill="#932279"/>
+  <path d="m29.084 5.549v1.33l0.478-0.477 1.529 1.528h0.374v-0.374l-1.527-1.529 0.478-0.478zm1.705 0-0.479 0.478 1.155 1.155v-1.633h-0.677zm-1.227 1.227-0.478 0.478v0.676h1.633z" fill="#9ccd2a"/>
+ </g>
+</svg>
