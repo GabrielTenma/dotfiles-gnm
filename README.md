@@ -22,7 +22,17 @@ $ git clone https://github.com/GabrielTenma/dotfiles-gnm.git
 <table cellpadding="4">
 <tbody>
 <tr>
-<td><h3>Graphite dark</h3>
+<td>
+<table  cellpadding="4">
+<tbody>
+<tr>
+<td><b>Graphite dark</b></td>
+</tr>
+<tr>
+<td>better for daily use</td>
+</tr>
+</tbody>
+</table>
 <P>
   <table  cellpadding="4">
     <tbody>
@@ -31,11 +41,11 @@ $ git clone https://github.com/GabrielTenma/dotfiles-gnm.git
             <td>graphite</td>
         </tr>
         <tr>
-            <td><b>icons</b></td>
+            <td><b>icon</b></td>
             <td>citrus</td>
         </tr>
         <tr>
-            <td><b>fonts</b></td>
+            <td><b>font</b></td>
             <td>product sans</td>
         </tr>
     </tbody>
