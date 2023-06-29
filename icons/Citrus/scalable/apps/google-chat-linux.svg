@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   version="1.1"
+   id="svg73"
+   sodipodi:docname="google-chat-linux.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1023"
+     id="namedview75"
+     showgrid="false"
+     inkscape:zoom="6.5546875"
+     inkscape:cx="31.837894"
+     inkscape:cy="42.58776"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="text909" />
+  <metadata
+     id="metadata2">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs43">
+    <linearGradient
+       id="e"
+       x1="17.187"
+       x2="17.187"
+       y1="46.737"
+       y2="199.98"
+       gradientTransform="matrix(0.3,0,0,0.3,1.9999981,1.999947)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#35C130"
+         offset="0"
+         id="stop4" />
+      <stop
+         stop-color="#34BD30"
+         offset=".3483"
+         id="stop6" />
+      <stop
+         stop-color="#31B231"
+         offset=".6809"
+         id="stop8" />
+      <stop
+         stop-color="#2C9F32"
+         offset="1"
+         id="stop10" />
+    </linearGradient>
+    <filter
+       id="f"
+       x="-.036"
+       y="-.036"
+       width="1.072"
+       height="1.072"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="14.115"
+         id="feGaussianBlur40" />
+    </filter>
+  </defs>
+  <circle
+     transform="matrix(.063762 0 0 .063762 -.61424 -2.48)"
+     cx="511.5"
+     cy="540.86"
+     r="470.5"
+     color="#000000"
+     filter="url(#f)"
+     opacity=".25"
+     stroke-width="15.683"
+     id="circle45" />
+  <g
+     transform="matrix(3.7796 0 0 3.7796 71.49 11.957)"
+     fill="#5e4aa6"
+     stroke-width=".26458"
+     id="g71">
+    <circle
+       cx="-330.35"
+       cy="-328.38"
+       r="0"
+       id="circle63" />
+    <circle
+       cx="-312.11"
+       cy="-326.25"
+       r="0"
+       id="circle65" />
+    <circle
+       cx="-306.02"
+       cy="-333.07"
+       r="0"
+       id="circle67" />
+    <circle
+       cx="-308.84"
+       cy="-326.01"
+       r="0"
+       id="circle69" />
+  </g>
+  <g
+     aria-label="@"
+     id="text909"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none">
+    <g
+       id="g866">
+      <circle
+         cx="31.999998"
+         cy="31.999548"
+         r="30"
+         color="#000000"
+         fill="url(#e)"
+         stroke-width="0.99998"
+         id="circle47"
+         style="fill:url(#e)" />
+      <path
+         id="path911"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#ffffff;fill-opacity:1"
+         d="m 46.827624,30.288092 q 0,1.84 -0.44,3.6 -0.4,1.76 -1.28,3.2 -0.88,1.4 -2.16,2.28 -1.28,0.84 -3.04,0.84 -1.84,0 -2.92,-1.04 -1.04,-1.08 -1.28,-2.44 h -0.2 q -0.72,1.48 -2.12,2.48 -1.4,1 -3.52,1 -3.04,0 -4.72,-2.04 -1.64,-2.04 -1.64,-5.4 0,-2.64 1.04,-4.64 1.04,-2.04 2.92,-3.2 1.92,-1.16 4.52,-1.16 1.76,0 3.44,0.32 1.72,0.28 2.68,0.64 l -0.4,8.12 q -0.04,0.72 -0.04,1.04 0,0.28 0,0.4 0,2.08 0.72,2.76 0.76,0.68 1.76,0.68 1.24,0 2.08,-1 0.88,-1.04 1.32,-2.72 0.48,-1.72 0.48,-3.76 0,-3.72 -1.52,-6.28 -1.48,-2.6 -4.12,-3.96 -2.6,-1.36 -5.92,-1.36 -4.56,0 -7.72,1.88 -3.12,1.88 -4.76,5.2 -1.6,3.28 -1.6,7.52 0,5.92 3.12,9.08 3.12,3.16 9,3.16 2.44,0 4.64,-0.56 2.24,-0.52 3.96,-1.16 v 2.72 q -1.72,0.72 -3.88,1.16 -2.12,0.48 -4.72,0.48 -4.72,0 -8.08,-1.76 -3.36,-1.76 -5.16,-5.04 -1.76,-3.32 -1.76,-7.96 0,-3.72 1.16,-6.88 1.16,-3.2 3.36,-5.52 2.2,-2.36 5.32,-3.64 3.16,-1.32 7.12,-1.32 4.16,0 7.4,1.72 3.24,1.72 5.08,4.92 1.88,3.2 1.88,7.64 z m -20.2,2.56 q 0,2.56 1,3.72 1.04,1.16 2.76,1.16 2.24,0 3.2,-1.68 1,-1.68 1.16,-4.36 l 0.24,-5 q -0.52,-0.16 -1.32,-0.28 -0.8,-0.12 -1.64,-0.12 -1.96,0 -3.16,0.96 -1.2,0.96 -1.72,2.48 -0.52,1.48 -0.52,3.12 z" />
+    </g>
+  </g>
+</svg>

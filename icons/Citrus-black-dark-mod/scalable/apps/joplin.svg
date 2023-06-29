@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="joplin.svg"
+   id="svg49"
+   version="1.1"
+   height="64"
+   width="64">
+  <sodipodi:namedview
+     inkscape:current-layer="svg49"
+     inkscape:window-maximized="0"
+     inkscape:window-y="95"
+     inkscape:window-x="224"
+     inkscape:cy="30.593945"
+     inkscape:cx="27.718641"
+     inkscape:zoom="9.269728"
+     showgrid="false"
+     id="namedview51"
+     inkscape:window-height="849"
+     inkscape:window-width="1628"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <metadata
+     id="metadata2">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs11">
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.0044 0 0 2.0044 43.503 271.61)"
+       y2="-104.70655"
+       y1="-134.78116"
+       x2="9.3285875"
+       x1="-20.704647"
+       id="linearGradient11422">
+      <stop
+         style="stop-color:#1e93f6;stop-opacity:1"
+         id="stop4"
+         offset="0"
+         stop-color="#32b4ff" />
+      <stop
+         style="stop-color:#014db0;stop-opacity:1"
+         id="stop6"
+         offset="1"
+         stop-color="#3287ff" />
+    </linearGradient>
+    <style
+       id="style9"
+       type="text/css" />
+    <style
+       id="current-color-scheme"
+       type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; }
+  </style>
+  </defs>
+  <circle
+     id="circle13"
+     fill="#5e4aa6"
+     r="0"
+     cy="-1279.3"
+     cx="-1124.8" />
+  <circle
+     id="circle15"
+     stroke-width=".53035"
+     opacity=".2"
+     r="30.001"
+     cy="32.508"
+     cx="31.999" />
+  <circle
+     id="circle17"
+     style="paint-order:normal;fill:url(#linearGradient11422)"
+     stroke-width="3.7796"
+     fill="url(#linearGradient11422)"
+     r="30.001"
+     cy="31.492"
+     cx="32.001" />
+  <g
+     id="g27"
+     stroke-width=".26458"
+     fill="#5e4aa6"
+     transform="matrix(3.7796 0 0 3.7796 123.83 -38.184)">
+    <circle
+       id="circle19"
+       r="0"
+       cy="-338.77"
+       cx="-299.02" />
+    <circle
+       id="circle21"
+       fill-rule="evenodd"
+       r="0"
+       cy="-3.9487"
+       cx="-8.1062" />
+    <circle
+       id="circle23"
+       r="0"
+       cy="-357.69"
+       cx="-278.25" />
+    <circle
+       id="circle25"
+       fill-rule="evenodd"
+       r="0"
+       cy="-22.859"
+       cx="12.663" />
+  </g>
+  <path
+     style="fill:#ffffff;stroke-width:2.28574;fill-opacity:1"
+     class="ColorScheme-Text"
+     d="m 28.142677,46.931492 c -3.575358,-0.328621 -6.346783,-1.48164 -8.427345,-3.506075 -1.767541,-1.719871 -2.710911,-5.341445 -2.715311,-7.419447 -0.0034,-1.456543 0.415811,-2.620226 1.260266,-3.500967 0.959999,-1.001269 2.057452,-1.459161 3.519058,-1.468246 1.830937,-0.01143 3.313235,0.627881 3.990293,2.045703 0.285684,0.598259 0.30237,0.700569 0.362016,2.219215 0.06766,1.723039 0.152985,4.227876 0.569414,5.045715 0.597674,1.173808 1.663449,2.077996 3.98119,2.07975 2.317742,0.0018 3.81377,-1.185614 4.428873,-3.58282 0.157099,-0.612327 0.170745,-1.812521 0.170745,-9.758546 0,-8.499814 -0.0034,-8.411815 -0.195659,-8.744219 -0.33911,-0.585305 -0.757872,-0.732658 -2.370508,-0.77007 H 30.713552 V 15 H 49 v 4.571485 h -1.935497 c -1.530529,0.06059 -1.802409,0.129761 -2.140425,0.494504 -0.466417,0.503308 -0.340392,0.06194 -0.406047,9.309254 -0.06515,9.17245 -0.06948,9.262566 -0.505881,10.475803 -1.091511,3.034515 -3.811236,5.570853 -7.558811,6.544557 -1.91561,0.497719 -6.183769,0.731391 -8.310696,0.535891 z"
+     id="path892" />
+</svg>

@@ -1,0 +1,23 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="a" x1="-6.1472" x2="-6.1472" y1="-140.25" y2="-98.292" gradientTransform="matrix(.53033 0 0 .53033 11.536 333.91)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ff3c69" offset="0"/>
+   <stop stop-color="#ff462b" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(0 -280.07)">
+  <circle cx="8.4935" cy="288.8" r="7.9375" opacity=".2" stroke-width=".14032"/>
+  <g transform="translate(0 18.151)">
+   <circle cx="8.4935" cy="270.38" r="7.9375" fill="url(#a)" stroke-width=".14032"/>
+   <circle cx="8.4935" cy="270.38" r="5.3316" fill="#fdfefd" stroke-width=".094251"/>
+   <circle cx="8.4935" cy="270.38" r="3.728" fill="#191923" stroke-width=".065902"/>
+   <circle cx="8.4935" cy="270.38" r="2.3815" fill="#3b444c" stroke-width=".042099"/>
+   <circle cx="8.4935" cy="270.38" r="1.1767" fill="#0d0d0c" stroke-width=".020801"/>
+   <g transform="matrix(.53033 0 0 .53033 178.57 312.01)" fill="#fefefe">
+    <circle cx="-320.71" cy="-79.13" r=".61512" stroke-width=".010874"/>
+    <circle cx="-320.71" cy="-77.543" r=".29774" stroke-width=".0052634"/>
+   </g>
+  </g>
+  <circle cx="-330.35" cy="-48.312" r="0" fill="#5e4aa6" stroke-width=".26458"/>
+ </g>
+</svg>

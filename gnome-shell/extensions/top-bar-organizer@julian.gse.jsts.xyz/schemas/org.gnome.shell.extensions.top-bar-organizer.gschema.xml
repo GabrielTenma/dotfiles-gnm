@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+    <schema id="org.gnome.shell.extensions.top-bar-organizer" path="/org/gnome/shell/extensions/top-bar-organizer/">
+        <key name="left-box-order" type="as">
+            <description>Order of items in the left box of the top bar.</description>
+            <default>[]</default>
+        </key>
+        <key name="center-box-order" type="as">
+            <description>Order of items in the center box of the top bar.</description>
+            <default>[]</default>
+        </key>
+        <key name="right-box-order" type="as">
+            <description>Order of items in the right box of the top bar.</description>
+            <default>[]</default>
+        </key>
+    </schema>
+</schemalist>

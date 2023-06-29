@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <linearGradient id="linearGradient11422" x1="-6.1472" x2="-6.1472" y1="-137.82" y2="-100.78" gradientTransform="matrix(.53033 0 0 .53033 11.51 71.996)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#32b4ff" offset="0"/>
+   <stop stop-color="#3287ff" offset="1"/>
+  </linearGradient>
+ </defs>
+ <circle cx="8.4664" cy="8.7335" r="7.9373" opacity=".15" stroke-width="1.111" style="paint-order:stroke markers fill"/>
+ <circle cx="8.4666" cy="8.4666" r="7.9375" fill="url(#linearGradient11422)" style="paint-order:normal"/>
+ <circle cx="8.4664" cy="8.4668" r="6.4674" fill="#fff" opacity=".25" stroke-width="1.111" style="paint-order:stroke markers fill"/>
+ <g transform="matrix(.10596 0 0 .10596 21.429 10.072)" opacity=".15">
+  <path d="m-122.34-40.699-34.197 57.259 29.917-16.821 4.2793-2.4039zm0 0 34.197 57.259-29.917-16.821-4.2793-2.4039z" opacity=".988" stroke-width=".73055" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;paint-order:stroke fill markers"/>
+ </g>
+ <g transform="matrix(.10596 0 0 .10596 21.429 9.7454)" fill="#fff">
+  <path d="m-122.34-40.699-34.197 57.259 29.917-16.821 4.2793-2.4039zm0 0 34.197 57.259-29.917-16.821-4.2793-2.4039z" opacity=".988" stroke-width=".73055" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;paint-order:stroke fill markers"/>
+ </g>
+ <circle cx="-304.98" cy="-336.62" r="0" fill="#5e4aa6" stroke-width=".26458"/>
+ <g transform="translate(25.372 -8.2368)" fill="#5e4aa6" stroke-width=".26458">
+  <circle cx="-299.02" cy="-338.77" r="0"/>
+  <circle cx="-8.1062" cy="-3.9487" r="0" fill-rule="evenodd"/>
+  <circle cx="-278.25" cy="-357.69" r="0"/>
+  <circle cx="12.663" cy="-22.859" r="0" fill-rule="evenodd"/>
+ </g>
+</svg>

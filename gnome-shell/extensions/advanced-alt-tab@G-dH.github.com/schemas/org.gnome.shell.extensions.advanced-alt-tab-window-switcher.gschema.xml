@@ -1,0 +1,322 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<schemalist>
+  <schema path='/org/gnome/shell/extensions/advanced-alt-tab-window-switcher/' id='org.gnome.shell.extensions.advanced-alt-tab-window-switcher'>
+    <key name='super-key-mode' type='i'>
+      <default>1</default>
+    </key>
+    <key name='enable-super' type='b'>
+      <default>false</default>
+    </key>
+    <key name='super-double-press-action' type='i'>
+      <default>1</default>
+    </key>
+
+    <key name='hot-edge-position' type='i'>
+      <default>2</default>
+    </key>
+    <key name='hot-edge-fullscreen' type='b'>
+      <default>true</default>
+    </key>
+    <key name='hot-edge-monitor' type='i'>
+      <default>0</default>
+    </key>
+    <key name='hot-edge-mode' type='i'>
+      <default>0</default>
+    </key>
+    <key name='hot-edge-pressure' type='i'>
+      <default>100</default>
+    </key>
+    <key name='hot-edge-width' type='i'>
+      <default>50</default>
+    </key>
+    <key name='show-dash' type='i'>
+      <default>0</default>
+    </key>
+
+    <key name='win-switcher-popup-preview-size' type='i'>
+      <default>128</default>
+    </key>
+    <key name='win-switcher-popup-icon-size' type='i'>
+      <default>48</default>
+    </key>
+    <key name='win-switch-minimized-to-end' type='b'>
+      <default>true</default>
+    </key>
+    <key name='win-switch-mark-minimized' type='b'>
+      <default>true</default>
+    </key>
+    <key name='win-switch-skip-minimized' type='b'>
+      <default>false</default>
+    </key>
+    <key name='win-switch-include-modals' type='b'>
+      <default>false</default>
+    </key>
+    <key name='win-switcher-popup-titles' type='i'>
+      <default>1</default>
+    </key>
+    <key name='win-switcher-popup-ws-indexes' type='b'>
+      <default>true</default>
+    </key>
+    <key name='win-switcher-popup-order' type='i'>
+      <default>1</default>
+    </key>
+    <key name='win-switcher-popup-sorting' type='i'>
+      <default>1</default>
+    </key>
+    <key name='win-switcher-popup-filter' type='i'>
+      <default>3</default>
+    </key>
+
+    <key name='switcher-ws-thumbnails' type='i'>
+      <default>2</default>
+    </key>
+    <key name='switcher-popup-preview-selected' type='i'>
+      <default>1</default>
+    </key>
+    <key name='switcher-popup-start-search' type='b'>
+      <default>true</default>
+    </key>
+    <key name='switcher-popup-position' type='i'>
+      <default>3</default>
+    </key>
+    <key name='switcher-popup-monitor' type='i'>
+      <default>1</default>
+    </key>
+    <key name='switcher-popup-up-down-action' type='i'>
+      <default>2</default>
+    </key>
+    <key name='switcher-popup-sync-filter' type='b'>
+      <default>false</default>
+    </key>
+    <key name='switcher-popup-pointer' type='b'>
+      <default>true</default>
+    </key>
+    <key name='switcher-popup-ext-app-favorites' type='b'>
+      <default>true</default>
+    </key>
+    <key name='switcher-popup-ext-app-stable' type='b'>
+      <default>true</default>
+    </key>
+    <key name='switcher-popup-reverse-auto' type='b'>
+      <default>true</default>
+    </key>
+    <key name='switcher-popup-tooltip-label-scale' type='i'>
+      <default>120</default>
+    </key>
+    <key name='switcher-popup-theme' type='i'>
+      <default>3</default>
+    </key>
+    <key name='switcher-popup-interactive-indicators' type='b'>
+      <default>true</default>
+    </key>
+    <key name='switcher-popup-hot-keys' type='b'>
+      <default>false</default>
+    </key>
+    <key name='switcher-popup-status' type='b'>
+      <default>false</default>
+    </key>
+    <key name='switcher-popup-tooltip-title' type='i'>
+      <default>2</default>
+    </key>
+    <key name='switcher-popup-hover-select' type='b'>
+      <default>true</default>
+    </key>
+    <key name='switcher-popup-scroll-out' type='i'>
+      <default>13</default>
+    </key>
+    <key name='switcher-popup-scroll-in' type='i'>
+      <default>6</default>
+    </key>
+    <key name='switcher-popup-prim-click-in' type='i'>
+      <default>5</default>
+    </key>
+    <key name='switcher-popup-sec-click-in' type='i'>
+      <default>4</default>
+    </key>
+    <key name='switcher-popup-mid-click-in' type='i'>
+      <default>99</default>
+    </key>
+    <key name='switcher-popup-prim-click-out' type='i'>
+      <default>13</default>
+    </key>
+    <key name='switcher-popup-sec-click-out' type='i'>
+      <default>13</default>
+    </key>
+    <key name='switcher-popup-mid-click-out' type='i'>
+      <default>13</default>
+    </key>
+    <key name='win-switcher-popup-scroll-item' type='i'>
+      <default>6</default>
+    </key>
+    <key name='app-switcher-popup-scroll-item' type='i'>
+      <default>6</default>
+    </key>
+    <key name='app-switcher-popup-prim-click-item' type='i'>
+      <default>2</default>
+    </key>
+    <key name='app-switcher-popup-sec-click-item' type='i'>
+      <default>9</default>
+    </key>
+    <key name='app-switcher-popup-mid-click-item' type='i'>
+      <default>11</default>
+    </key>
+    <key name='win-switcher-popup-prim-click-item' type='i'>
+      <default>2</default>
+    </key>
+    <key name='win-switcher-popup-sec-click-item' type='i'>
+      <default>10</default>
+    </key>
+    <key name='win-switcher-popup-mid-click-item' type='i'>
+      <default>11</default>
+    </key>
+
+    <key name='app-switcher-popup-sorting' type='i'>
+      <default>1</default>
+    </key>
+    <key name='app-switcher-popup-filter' type='i'>
+      <default>1</default>
+    </key>
+    <key name='app-switcher-popup-show-wins-on-activate' type='i'>
+      <default>1</default>
+    </key>
+    <key name='app-switcher-popup-include-show-apps-icon' type='b'>
+      <default>true</default>
+    </key>
+    <key name='switcher-popup-timeout' type='i'>
+      <default>100</default>
+    </key>
+    <key name='switcher-popup-pointer-timeout' type='i'>
+      <default>1200</default>
+    </key>
+    <key name='switcher-popup-activate-on-hide' type='b'>
+      <default>false</default>
+    </key>
+    <key name='app-switcher-popup-raise-first-only' type='b'>
+      <default>false</default>
+    </key>
+    <key name='app-switcher-popup-results-limit' type='i'>
+      <default>12</default>
+    </key>
+    <key name='app-switcher-popup-search-pref-running' type='b'>
+      <default>false</default>
+    </key>
+
+    <key name='app-switcher-popup-icon-size' type='i'>
+      <default>64</default>
+    </key>
+    <key name='win-switcher-single-prev-size' type='i'>
+      <default>192</default>
+    </key>
+    <key name='switcher-popup-shift-hotkeys' type='b'>
+      <default>false</default>
+    </key>
+    <key name='switcher-popup-wrap' type='b'>
+      <default>true</default>
+    </key>
+    <key name='win-thumbnail-scale' type='i'>
+      <default>15</default>
+    </key>
+    <key name='ws-switch-ignore-last' type='b'>
+      <default>false</default>
+    </key>
+     <key name='win-switcher-popup-search-all' type='b'>
+      <default>true</default>
+    </key>
+    <key name='win-switcher-popup-search-apps' type='b'>
+      <default>true</default>
+    </key>
+    <key name='app-switcher-popup-fav-apps' type='b'>
+      <default>true</default>
+    </key>
+    <key name='app-switcher-popup-win-counter' type='b'>
+      <default>true</default>
+    </key>
+    <key name='app-switcher-popup-hide-win-counter-for-single-window' type='b'>
+      <default>false</default>
+    </key>
+    <key name='app-switcher-popup-titles' type='b'>
+      <default>false</default>
+    </key>
+    <key name='app-switcher-popup-fav-mru' type='b'>
+      <default>true</default>
+    </key>
+    <key name='ws-switch-wrap' type='b'>
+      <default>false</default>
+    </key>
+    <key name='ws-switch-popup' type='b'>
+      <default>true</default>
+    </key>
+    <key name='wm-always-activate-focused' type='b'>
+      <default>false</default>
+    </key>
+
+    <key name='hotkey-switch-filter' type='s'>
+      <default>'Q'</default>
+    </key>
+    <key name='hotkey-close-quit' type='s'>
+      <default>'W'</default>
+    </key>
+    <key name='hotkey-search' type='s'>
+      <default>'E'</default>
+    </key>
+    <key name='hotkey-single-app' type='s'>
+      <default>'1+'</default>
+    </key>
+    <key name='hotkey-new-win' type='s'>
+      <default>'N'</default>
+    </key>
+    <key name='hotkey-move-win-to-monitor' type='s'>
+      <default>'X'</default>
+    </key>
+    <key name='hotkey-above' type='s'>
+      <default>'A'</default>
+    </key>
+    <key name='hotkey-sticky' type='s'>
+      <default>'S'</default>
+    </key>
+    <key name='hotkey-close-all-app' type='s'>
+      <default>'C'</default>
+    </key>
+    <key name='hotkey-fs-on-new-ws' type='s'>
+      <default>'F'</default>
+    </key>
+    <key name='hotkey-maximize' type='s'>
+      <default>'M'</default>
+    </key>
+    <key name='hotkey-group-ws' type='s'>
+      <default>'G'</default>
+    </key>
+    <key name='hotkey-switcher-mode' type='s'>
+      <default>'Z'</default>
+    </key>
+    <key name='hotkey-thumbnail' type='s'>
+      <default>'T'</default>
+    </key>
+    <key name='hotkey-prefs' type='s'>
+      <default>'P'</default>
+    </key>
+    <key name='hotkey-left' type='s'>
+      <default>'H'</default>
+    </key>
+    <key name='hotkey-down' type='s'>
+      <default>'J'</default>
+    </key>
+    <key name='hotkey-up' type='s'>
+      <default>'K'</default>
+    </key>
+    <key name='hotkey-right' type='s'>
+      <default>'L'</default>
+    </key>
+    <key name='hotkey-favorites' type='s'>
+      <default>'O'</default>
+    </key>
+    <key name='remember-input' type='b'>
+      <default>false</default>
+    </key>
+    <key name='input-source-id' type='s'>
+      <default>''</default>
+    </key>
+  
+  </schema>
+</schemalist>

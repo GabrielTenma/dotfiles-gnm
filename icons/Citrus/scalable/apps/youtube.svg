@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="youtube.svg"
+   id="svg6"
+   viewBox="0 0 16.933 16.933"
+   version="1.1"
+   height="64"
+   width="64">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10">
+    <linearGradient
+       id="a"
+       x1="-6.1472"
+       x2="-6.1472"
+       y1="-140.25"
+       y2="-98.292"
+       gradientTransform="matrix(0.53033,0,0,0.53033,11.509,71.86151)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#ff3c69"
+         offset="0"
+         id="stop837" />
+      <stop
+         stop-color="#ff462b"
+         offset="1"
+         id="stop839" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     inkscape:current-layer="svg6"
+     inkscape:window-maximized="1"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:cy="38.081132"
+     inkscape:cx="51.513197"
+     inkscape:zoom="6.375"
+     showgrid="false"
+     id="namedview8"
+     inkscape:window-height="985"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <circle
+     id="circle844"
+     stroke-width="0.26458"
+     fill="#5e4aa6"
+     r="0"
+     cy="-328.5105"
+     cx="-330.37701" />
+  <circle
+     id="ellipse846"
+     stroke-width="0.26458"
+     fill-rule="evenodd"
+     fill="#5e4aa6"
+     r="0"
+     cy="6.3115196"
+     cx="-39.460999" />
+  <circle
+     id="circle848"
+     stroke-width="0.14032"
+     opacity="0.2"
+     r="7.9375"
+     cy="8.6014977"
+     cx="8.4665003" />
+  <circle
+     id="circle850"
+     stroke-width="0.14032"
+     fill="url(#a)"
+     r="7.9375"
+     cy="8.3315086"
+     cx="8.4665003"
+     style="fill:url(#a)" />
+  <path
+     id="path4"
+     stroke-width="0.0240488"
+     fill="#ffffff"
+     d="m 13.039693,6.7095761 c -0.05178,-0.6194022 -0.421102,-1.4005049 -1.180092,-1.42838 -2.1193823,-0.1425004 -4.6301413,-0.1814631 -6.7880237,0 -0.6694398,0.075029 -1.1283289,0.8904406 -1.1783416,1.5098803 -0.1058379,1.3010045 -0.1058379,2.041507 0,3.3425116 0.0506,0.619402 0.4978642,1.439505 1.1795041,1.525505 2.1833825,0.1425 4.6820159,0.16285 6.7880232,0 0.660715,-0.114575 1.128904,-0.906153 1.179505,-1.525505 C 13.14553,8.8319584 13.14553,8.0107056 13.039695,6.7097011 Z M 7.3026725,10.112588 V 6.7770763 l 2.9080105,1.6680058 z" />
+</svg>

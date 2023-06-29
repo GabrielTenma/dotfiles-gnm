@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <linearGradient id="linearGradient11422" x1="-6.1472" x2="-6.1472" y1="-137.82" y2="-100.78" gradientTransform="matrix(.53033 0 0 .53033 11.536 71.989)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#32b4ff" offset="0"/>
+   <stop stop-color="#3287ff" offset="1"/>
+  </linearGradient>
+ </defs>
+ <circle cx="-330.35" cy="-328.38" r="0" fill="#5e4aa6" stroke-width=".26458"/>
+ <circle cx="-39.434" cy="6.44" r="0" fill="#5e4aa6" fill-rule="evenodd" stroke-width=".26458"/>
+ <circle cx="8.4935" cy="8.73" r="7.9375" opacity=".2" stroke-width=".14032"/>
+ <circle cx="8.4939" cy="8.459" r="7.9375" fill="url(#linearGradient11422)" style="paint-order:normal"/>
+ <path d="m5.7707 11.018 5.3861-5.1026-2.693-2.693v10.489l2.693-2.693-5.3861-5.1026" enable-background="new" fill="none" stroke="#fff" stroke-linecap="square" stroke-width=".56695"/>
+ <g fill="#5e4aa6" stroke-width=".26458">
+  <circle cx="-306.7" cy="-329.95" r="0"/>
+  <circle cx="-15.783" cy="4.8765" r="0" fill-rule="evenodd"/>
+  <circle cx="-285.93" cy="-348.86" r="0"/>
+  <circle cx="4.9855" cy="-14.033" r="0" fill-rule="evenodd"/>
+ </g>
+</svg>

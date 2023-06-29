@@ -1,0 +1,103 @@
+/* Add your custom extension styling here */
+
+.v-spacer {
+    min-height: 8px;
+}
+
+.v-separator-cont {
+    padding: 5px 10px;
+    height: 10px;
+}
+
+.h-line {
+    height: 1px;
+    background: #BBB;
+}
+
+.icon-16 {
+    width: 16px;
+    height: 16px;
+}
+
+.icon-24 {
+    width: 24px;
+    height: 24px;
+}
+
+.border-1 {
+    border: 1px solid red;
+}
+
+.main-label {
+    font-size: 0.8em;
+}
+
+.device-menu-item {
+    width: 400px;
+}
+
+.device-menu-item-label {
+    width: 90px;
+}
+
+.view-item {
+    padding-left: 24px;
+    padding-right: 24px;
+}
+
+.h-center {
+    margin: 0 auto;
+    width: 200px;
+}
+
+.text-item {
+    min-width: 150px;
+}
+
+.text-left {
+    text-align: left;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.ns-button {
+    padding: 6px;
+    border: 1px solid #BBB;
+    background: #f9f9f9;
+    cursor: pointer;
+}
+
+.ns-button:hover {
+    background: #CCC;
+}
+
+.ns-button:active {
+    background: #AAA;
+}
+
+.ns-action-button {
+    padding: 6px;
+    border: 1px solid #BBB;
+    background: #f9f9f9;
+    width: 16px;
+    height: 16px;
+    cursor: pointer;
+}
+
+.ns-action-button:hover {
+    background: #CCC;
+}
+
+.ns-action-button:active {
+    background: #AAA;
+}
+
+.ns-action-button-down {
+    background: #BBB;
+}
+
+.ns-text-button {
+    padding: 4px 6px;
+}

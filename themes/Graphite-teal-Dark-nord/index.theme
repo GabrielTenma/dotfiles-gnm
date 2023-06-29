@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Graphite-teal-Dark-nord
+Comment=An Flat Gtk+ theme based on Elegant Design
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Graphite-teal-Dark-nord
+MetacityTheme=Graphite-teal-Dark-nord
+IconTheme=Tela-circle-Dark
+CursorTheme=Graphite-cursors
+ButtonLayout=close,minimize,maximize:menu

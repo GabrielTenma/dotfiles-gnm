@@ -1,0 +1,16 @@
+<schemalist>
+  <schema id="org.gnome.shell.extensions.one-window-wonderland" path="/org/gnome/shell/extensions/one-window-wonderland/">
+    <key name="gap-size" type="i">
+      <default>20</default>
+      <summary>The size of the gap around the window, in pixels</summary>
+    </key>
+    <key name="force-list" type="s">
+      <default><![CDATA['']]></default>
+      <summary>A comma-separated list of names of applications that are forcibly kept in position by this extension</summary>
+    </key>
+    <key name="ignore-list" type="s">
+      <default><![CDATA['']]></default>
+      <summary>A comma-separated list of names of applications that should not be managed by this extension</summary>
+    </key>
+  </schema>
+</schemalist>

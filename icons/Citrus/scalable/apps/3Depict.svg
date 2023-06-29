@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <linearGradient id="linearGradient1057">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient982" x1="34.999" x2="34.999" y1="27.545" y2="52.847" gradientTransform="matrix(1.5625 0 0 1.5625 .40633 -5.1891)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#32b4ff" offset="0"/>
+   <stop stop-color="#3287ff" offset="1"/>
+  </linearGradient>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <linearGradient id="linearGradient1047" x1="21.314" x2="21.314" y1="18.052" y2="43.681" gradientTransform="matrix(1.5625 0 0 1.5625 -9.2253 1.3231)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#14dc78" offset="0"/>
+   <stop stop-color="#14a03c" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1049" x1="41.729" x2="41.729" y1="12.316" y2="37.368" gradientTransform="matrix(1.5625 0 0 1.5625 -8.1072 -10.908)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ff3c64" offset="0"/>
+   <stop stop-color="#ff4628" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1059" x1="34.427" x2="34.427" y1="32.234" y2="39.768" gradientTransform="matrix(1 0 0 1.2271 .20646 -10.975)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1057"/>
+  <linearGradient id="linearGradient1063" x1="34.427" x2="34.427" y1="32.234" y2="39.768" gradientTransform="matrix(1 0 0 1.2271 -12.55 -19.793)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1057"/>
+  <linearGradient id="linearGradient1067" x1="34.427" x2="34.427" y1="32.234" y2="39.768" gradientTransform="matrix(1 0 0 1.2271 5.7554 -25.761)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1057"/>
+ </defs>
+ <!-- color: #eeeeee -->
+ <circle cx="-1248.7" cy="-1241.6" r="0" fill="#5e4aa6"/>
+ <circle cx="32" cy="32.51" r="30.001" opacity=".2" stroke-width=".53035"/>
+ <circle cx="32" cy="31.49" r="30.001" fill="#fafafa" stroke-width=".53035"/>
+ <circle cx="-149.15" cy="23.855" r="0" fill="#5e4aa6" fill-rule="evenodd"/>
+ <g transform="translate(.82252 -.57625)">
+  <circle cx="40.33" cy="25.029" r="12.5" fill="url(#linearGradient1049)"/>
+  <ellipse cx="40.33" cy="18.929" rx="7.5523" ry="5.1983" fill="url(#linearGradient1067)" opacity=".7" stroke-width=".27607"/>
+  <circle cx="22.025" cy="31.011" r="12.5" fill="url(#linearGradient1047)"/>
+  <ellipse cx="22.025" cy="24.897" rx="7.5523" ry="5.1983" fill="url(#linearGradient1063)" opacity=".7" stroke-width=".27607"/>
+  <circle cx="34.781" cy="40.123" r="12.5" fill="url(#linearGradient982)"/>
+  <ellipse cx="34.781" cy="33.714" rx="7.5523" ry="5.1983" fill="url(#linearGradient1059)" opacity=".7" stroke-width=".27607"/>
+ </g>
+</svg>

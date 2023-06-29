@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <linearGradient id="linearGradient11422" x1="-6.1472" x2="-6.1472" y1="-137.82" y2="-100.78" gradientTransform="matrix(2.0044 0 0 2.0044 43.503 271.61)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#32b4ff" offset="0"/>
+   <stop stop-color="#3287ff" offset="1"/>
+  </linearGradient>
+  <style type="text/css"/>
+ </defs>
+ <circle cx="-1124.8" cy="-1279.3" r="0" fill="#5e4aa6"/>
+ <circle cx="31.999" cy="32.508" r="30.001" opacity=".2" stroke-width=".53035"/>
+ <circle cx="32.001" cy="31.492" r="30.001" fill="url(#linearGradient11422)" stroke-width="3.7796" style="paint-order:normal"/>
+ <g transform="matrix(3.7796 0 0 3.7796 123.83 -38.184)" fill="#5e4aa6" stroke-width=".26458">
+  <circle cx="-299.02" cy="-338.77" r="0"/>
+  <circle cx="-8.1062" cy="-3.9487" r="0" fill-rule="evenodd"/>
+  <circle cx="-278.25" cy="-357.69" r="0"/>
+  <circle cx="12.663" cy="-22.859" r="0" fill-rule="evenodd"/>
+ </g>
+ <g transform="matrix(.033482 0 0 .033482 14.857 15.929)" opacity=".2">
+  <path d="m512 800c-247.42 0-448-71.63-448-160v160c0 88.37 200.58 160 448 160s448-71.63 448-160v-160c0 88.37-200.58 160-448 160z" p-id="45806"/>
+  <path d="m512 608c-247.42 0-448-71.63-448-160v160c0 88.37 200.58 160 448 160s448-71.63 448-160v-160c0 88.37-200.58 160-448 160z" p-id="45807"/>
+  <path d="m512 416c-247.42 0-448-71.63-448-160v160c0 88.37 200.58 160 448 160s448-71.63 448-160v-160c0 88.37-200.58 160-448 160z" p-id="45808"/>
+  <path d="m64 224a448 160 0 1 0 896 0 448 160 0 1 0-896 0z" p-id="45809"/>
+ </g>
+ <g transform="matrix(.033482 0 0 .033482 14.857 14.857)" fill="#fff">
+  <path d="m512 800c-247.42 0-448-71.63-448-160v160c0 88.37 200.58 160 448 160s448-71.63 448-160v-160c0 88.37-200.58 160-448 160z" p-id="45806"/>
+  <path d="m512 608c-247.42 0-448-71.63-448-160v160c0 88.37 200.58 160 448 160s448-71.63 448-160v-160c0 88.37-200.58 160-448 160z" p-id="45807"/>
+  <path d="m512 416c-247.42 0-448-71.63-448-160v160c0 88.37 200.58 160 448 160s448-71.63 448-160v-160c0 88.37-200.58 160-448 160z" p-id="45808"/>
+  <path d="m64 224a448 160 0 1 0 896 0 448 160 0 1 0-896 0z" p-id="45809"/>
+ </g>
+</svg>

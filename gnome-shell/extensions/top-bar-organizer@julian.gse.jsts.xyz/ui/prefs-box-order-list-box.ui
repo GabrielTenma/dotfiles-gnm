@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interface>
+    <template class="PrefsBoxOrderListBox" parent="GtkListBox">
+        <property name="selection-mode">none</property>
+        <property name="show-separators">True</property>
+        <style>
+            <class name="boxed-list"/>
+        </style>
+    </template>
+</interface>

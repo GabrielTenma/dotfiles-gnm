@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <linearGradient id="a-3" x1="-6.1472" x2="-6.1472" y1="-137.82" y2="-100.78" gradientTransform="matrix(2.0044,0,0,2.0044,123.77,261.85)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ffbe14" offset="0"/>
+   <stop stop-color="#ff8214" offset="1"/>
+  </linearGradient>
+ </defs>
+ <circle cx="-1168.4" cy="-1251.4" r="0" fill="#5e4aa6"/>
+ <circle cx="-68.875" cy="14.092" r="0" fill="#5e4aa6" fill-rule="evenodd"/>
+ <g transform="translate(-80.27,9.7625)" stroke-width=".53035">
+  <circle cx="112.27" cy="22.748" r="30.001" opacity=".2"/>
+  <circle cx="112.27" cy="21.727" r="30.001" fill="url(#a-3)"/>
+ </g>
+ <g transform="matrix(1.447 0 0 1.447 -5.8748 -1.9484)" opacity=".15">
+  <path d="m19.061 12.803c-2.7588 0-4.9797 2.221-4.9797 4.9797 0 2.7588 2.221 4.9798 4.9797 4.9798 2.7588 0 4.9797-2.221 4.9797-4.9798 0-2.7588-2.2209-4.9797-4.9797-4.9797zm-3.557 12.805v9.9595h7.1139v-9.9595z" stroke-width="1.1526"/>
+  <g transform="matrix(.80676 0 0 .80676 -303.74 -398.09)">
+   <path transform="rotate(-36.621 416.41 534.81)" d="m420.91 541.36-10.562-7.9019 12.124-5.1962z"/>
+   <path d="m411.91 509.56h11.8v11.8h-11.8z"/>
+  </g>
+ </g>
+ <g transform="matrix(1.447 0 0 1.447 -5.8748 -2.9948)" fill="#fafafa">
+  <path d="m19.061 12.803c-2.7588 0-4.9797 2.221-4.9797 4.9797 0 2.7588 2.221 4.9798 4.9797 4.9798 2.7588 0 4.9797-2.221 4.9797-4.9798 0-2.7588-2.2209-4.9797-4.9797-4.9797zm-3.557 12.805v9.9595h7.1139v-9.9595z" stroke-width="1.1526"/>
+  <g transform="matrix(.80676 0 0 .80676 -303.74 -398.09)">
+   <path transform="rotate(-36.621 416.41 534.81)" d="m420.91 541.36-10.562-7.9019 12.124-5.1962z"/>
+   <path d="m411.91 509.56h11.8v11.8h-11.8z"/>
+  </g>
+ </g>
+</svg>
