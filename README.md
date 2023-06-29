@@ -11,15 +11,37 @@ Dotfiles are used to customize your system. The “dotfiles” name is derived f
 <br>
 
 ## clone dotfiles
-enter clone command
+Enter clone command
 
 ```
-$ git clone https://github.com/GabrielTenma/dotfiles.git
+$ git clone https://github.com/GabrielTenma/dotfiles-gnm.git
 ```
 <br>
-<br>
-
 
 ## Screenshot
-
-<img src="https://raw.githubusercontent.com/GabrielTenma/dotfiles-gnm/theme-graphitedark/.assets/desktop-graphite-dark.png" alt="img" align="left" width="600px"> 
+<table cellpadding="4">
+<tbody>
+<tr>
+<td><h3>Graphite dark</h3>
+<P>
+  <table  cellpadding="4">
+    <tbody>
+        <tr>
+            <td><b>theme</b></td>
+            <td>graphite</td>
+        </tr>
+        <tr>
+            <td><b>icons</b></td>
+            <td>citrus</td>
+        </tr>
+        <tr>
+            <td><b>fonts</b></td>
+            <td>product sans</td>
+        </tr>
+    </tbody>
+    </table>
+</P></td>
+<td><img src="https://raw.githubusercontent.com/GabrielTenma/dotfiles-gnm/theme-graphitedark/.assets/desktop-graphite-dark.png" alt="img" width="600px"></td>
+</tr>
+</tbody>
+</table>
