@@ -127,7 +127,6 @@ class PowerButton extends St.Button{
         let chargingState = this._proxy.State === UPower.DeviceState.CHARGING
             ? '-charging' : '';
         let fillLevel = 10 * Math.floor(this._proxy.Percentage / 10);
-        fillLevel = ~~fillLevel
         const charged =
             this._proxy.State === UPower.DeviceState.FULLY_CHARGED ||
             (this._proxy.State === UPower.DeviceState.CHARGING && fillLevel === 100);
@@ -136,7 +135,7 @@ class PowerButton extends St.Button{
             ? 'battery-level-100-charged-symbolic'
             : `battery-level-${fillLevel}${chargingState}-symbolic`;
 
-        this._label.text = `${this._proxy.Percentage}%`;
+        this._label.text = `${Math.floor(this._proxy.Percentage)}%`;
     }
 });
 
