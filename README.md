@@ -15,18 +15,23 @@ Here are the instructions you should follow to replicate my setup.
 1. Install git-version then enter
   ```shell
   git clone https://github.com/GabrielTenma/dotfiles-gnm.git
+  cd dotfiles-gnm
   ```
 2. Install theme, copy or enter command
   ```shell
   cp -r ./themes/* ~/.themes/
   cp -r ./icons/* ~/.icons/
-  cp -r ./gnome-shell/* ~/.local/share/gnome-shell/* 
+  cp -r ./gnome-shell/* ~/.local/share/gnome-shell/*
   ```
-3. Install gnome tweak tool  `arch command` 
-   ```shell
-   yay -S gnome-tweak-tool
-   ```
-4. Set all config in gnome tweak tool
+3. Install gnome tweak tool `arch command`
+  ```shell
+  yay -S gnome-tweak-tool
+  ```
+4. Install all fonts
+  ```shell
+  sudo cp -r ./misc/fonts/* /usr/share/fonts/
+  ```
+5. Set all config in gnome tweak tool
    `search in menu`
 
 <br>
