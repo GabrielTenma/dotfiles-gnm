@@ -110,7 +110,7 @@ class MediaButton extends PanelMenu.Button{
     _syncLabel(){
         if(!this.player) return;
         let labelText = `  ${this.player.trackArtists.join(', ')} - ${this.player.trackTitle} `;
-        this._label.text = labelText.substring(0, 80)
+        this._label.text = labelText.substring(0, 60)
         this._icon.icon_name = ` ${this.player.entry}   ${this._coloredIcon ? '' : '-symbolic'} `;
     }
 

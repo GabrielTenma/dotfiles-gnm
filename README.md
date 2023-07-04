@@ -5,9 +5,9 @@
 <br>
 
 ## Introduction
-This is my personal collection of configuration files.
-You are probably here for my gnome configuration.
-The [setup section](#setup) will guide you through the installation process.
+<p> This is my personal collection of configuration files.
+<p> You are probably here for my gnome configuration.
+<p> The [setup section](#setup) will guide you through the installation process.
 
 <br>
 
