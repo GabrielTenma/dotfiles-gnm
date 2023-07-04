@@ -47,7 +47,7 @@ Here are the instructions you should follow to replicate my setup.
         <td><b>Graphite dark</b></td>
       </tr>
       <tr>
-        <td>better for daily use</td>
+        <td>Rounded all around</td>
       </tr>
     </tbody>
   </table>
@@ -69,7 +69,10 @@ Here are the instructions you should follow to replicate my setup.
     </tbody>
   </table>
 </P></td>
-<td><img src="https://raw.githubusercontent.com/GabrielTenma/dotfiles-gnm/theme-graphitedark/.assets/desktop-graphite-dark.png" alt="img" width="600px"></td>
+  <td>
+    <img src="https://raw.githubusercontent.com/GabrielTenma/dotfiles-gnm/theme-graphitedark/.assets/desktop-graphite-dark.png" alt="img" width="600px">
+    <img src="https://raw.githubusercontent.com/GabrielTenma/dotfiles-gnm/theme-graphitedark/.assets/desktop-graphite-dark-showapps.png" alt="img" width="600px">
+  </td>
 </tr>
 </tbody>
 </table>
