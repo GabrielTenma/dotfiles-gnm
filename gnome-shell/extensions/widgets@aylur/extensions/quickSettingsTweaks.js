@@ -126,7 +126,7 @@ class PowerButton extends St.Button{
 
         let chargingState = this._proxy.State === UPower.DeviceState.CHARGING
             ? '-charging' : '';
-        let fillLevel = 10 * Math.floor(this._proxy.Percentage / 10);
+        let fillLevel = Math.floor(10 * Math.floor(this._proxy.Percentage / 10));
         const charged =
             this._proxy.State === UPower.DeviceState.FULLY_CHARGED ||
             (this._proxy.State === UPower.DeviceState.CHARGING && fillLevel === 100);
