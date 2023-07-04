@@ -5,9 +5,7 @@
 <br>
 
 ## Introduction
-<p> This is my personal collection of configuration files.
-<p> You are probably here for my gnome configuration.
-<p> The [setup section](#setup) will guide you through the installation process.
+This is my personal collection of configuration files, you are probably here for my gnome configuration, the [setup section](#setup) will guide you through the installation process.
 
 <br>
 
@@ -49,7 +47,7 @@ Here are the instructions you should follow to replicate my setup.
         <td><b>Graphite dark</b></td>
       </tr>
       <tr>
-        <td>better for daily use</td>
+        <td>rounded all around</td>
       </tr>
     </tbody>
   </table>
