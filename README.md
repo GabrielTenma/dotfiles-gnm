@@ -71,9 +71,9 @@ search those listed extension below, make sure mandatory extension should be ins
 <tbody>
 <tr>
 <td>
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/GabrielTenma/dotfiles-gnm/blob/master/.assets/rounded-logo1.png?raw=true" align="center" alt="logo" width="190px">
-</p>
+</p> -->
 <p>
   <table  cellpadding="4">
     <tbody>
